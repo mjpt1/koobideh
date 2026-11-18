@@ -1,0 +1,2445 @@
+{
+ "schema_version": 1,
+ "title": "Joojeh Kebab",
+ "subtitle": "",
+ "audio": "joojeh.mp3",
+ "audio_path": "D:\\job\\koobideh\\joojeh\\joojeh.mp3",
+ "duration": 180.68,
+ "grid": {
+  "bpm": 106.045,
+  "beat": 0.5658,
+  "phi": 0.274,
+  "downbeat_mod4": 3,
+  "bar0": 1.959,
+  "off_grid": [
+   {
+    "from": 127.305,
+    "to": 180.68,
+    "bpm": 107.1,
+    "kind": "tempo",
+    "offset_ms": null
+   }
+  ],
+  "beats": [
+   0.139,
+   0.746,
+   1.352,
+   1.959,
+   2.565,
+   3.172,
+   3.778,
+   4.385,
+   5.091,
+   5.796,
+   6.43,
+   7.063,
+   7.627,
+   8.191,
+   8.757,
+   9.323,
+   9.886,
+   10.45,
+   11.015,
+   11.581,
+   12.145,
+   12.709,
+   13.277,
+   13.844,
+   14.408,
+   14.972,
+   15.54,
+   16.108,
+   16.673,
+   17.239,
+   17.805,
+   18.37,
+   18.936,
+   19.502,
+   20.07,
+   20.638,
+   21.203,
+   21.769,
+   22.335,
+   22.901,
+   23.467,
+   24.033,
+   24.6,
+   25.168,
+   25.734,
+   26.3,
+   26.866,
+   27.432,
+   27.997,
+   28.563,
+   29.129,
+   29.695,
+   30.261,
+   30.826,
+   31.392,
+   31.958,
+   32.524,
+   33.089,
+   33.655,
+   34.221,
+   34.787,
+   35.353,
+   35.918,
+   36.484,
+   37.05,
+   37.616,
+   38.182,
+   38.747,
+   39.313,
+   39.879,
+   40.445,
+   41.011,
+   41.577,
+   42.142,
+   42.708,
+   43.274,
+   43.84,
+   44.405,
+   44.971,
+   45.537,
+   46.103,
+   46.669,
+   47.234,
+   47.8,
+   48.366,
+   48.932,
+   49.498,
+   50.063,
+   50.629,
+   51.195,
+   51.763,
+   52.33,
+   52.896,
+   53.462,
+   54.028,
+   54.594,
+   55.16,
+   55.725,
+   56.291,
+   56.857,
+   57.423,
+   57.989,
+   58.554,
+   59.12,
+   59.686,
+   60.252,
+   60.818,
+   61.383,
+   61.949,
+   62.515,
+   63.081,
+   63.647,
+   64.212,
+   64.778,
+   65.344,
+   65.91,
+   66.476,
+   67.042,
+   67.607,
+   68.173,
+   68.739,
+   69.305,
+   69.871,
+   70.436,
+   71.002,
+   71.568,
+   72.134,
+   72.7,
+   73.265,
+   73.831,
+   74.397,
+   74.963,
+   75.528,
+   76.094,
+   76.66,
+   77.226,
+   77.791,
+   78.357,
+   78.923,
+   79.489,
+   80.055,
+   80.62,
+   81.186,
+   81.752,
+   82.318,
+   82.884,
+   83.455,
+   84.021,
+   84.587,
+   85.152,
+   85.717,
+   86.282,
+   86.85,
+   87.415,
+   87.981,
+   88.546,
+   89.113,
+   89.679,
+   90.244,
+   90.809,
+   91.377,
+   91.942,
+   92.507,
+   93.072,
+   93.636,
+   94.2,
+   94.766,
+   95.331,
+   95.899,
+   96.467,
+   97.033,
+   97.599,
+   98.164,
+   98.73,
+   99.294,
+   99.858,
+   100.424,
+   100.99,
+   101.555,
+   102.121,
+   102.687,
+   103.253,
+   103.818,
+   104.384,
+   104.95,
+   105.516,
+   106.08,
+   106.643,
+   107.209,
+   107.775,
+   108.341,
+   108.907,
+   109.471,
+   110.035,
+   110.599,
+   111.163,
+   111.728,
+   112.294,
+   112.858,
+   113.422,
+   113.986,
+   114.55,
+   115.114,
+   115.677,
+   116.241,
+   116.805,
+   117.369,
+   117.933,
+   118.497,
+   119.06,
+   119.622,
+   120.184,
+   120.748,
+   121.312,
+   121.875,
+   122.439,
+   123.003,
+   123.567,
+   124.129,
+   124.69,
+   125.254,
+   125.818,
+   126.382,
+   126.946,
+   127.507,
+   128.069,
+   128.633,
+   129.197,
+   129.759,
+   130.321,
+   130.884,
+   131.448,
+   132.01,
+   132.572,
+   133.136,
+   133.699,
+   134.261,
+   134.823,
+   135.383,
+   135.943,
+   136.505,
+   137.067,
+   137.629,
+   138.191,
+   138.751,
+   139.311,
+   139.873,
+   140.434,
+   140.994,
+   141.554,
+   142.114,
+   142.674,
+   143.233,
+   143.793,
+   144.353,
+   144.913,
+   145.472,
+   146.032,
+   146.594,
+   147.156,
+   147.716,
+   148.275,
+   148.835,
+   149.395,
+   149.955,
+   150.515,
+   151.075,
+   151.634,
+   152.194,
+   152.754,
+   153.312,
+   153.87,
+   154.43,
+   154.99,
+   155.548,
+   156.106,
+   156.665,
+   157.225,
+   157.785,
+   158.344,
+   158.904,
+   159.464,
+   160.022,
+   160.579,
+   161.139,
+   161.699,
+   162.259,
+   162.818,
+   163.378,
+   163.938,
+   164.496,
+   165.054,
+   165.614,
+   166.174,
+   166.732,
+   167.289,
+   167.849,
+   168.409,
+   168.969,
+   169.529,
+   170.086,
+   170.644,
+   171.204,
+   171.763,
+   172.323,
+   172.883,
+   173.443,
+   174.003,
+   174.56,
+   175.118,
+   175.677,
+   176.236,
+   176.795,
+   177.354,
+   177.913,
+   178.472,
+   179.031,
+   179.59,
+   180.149
+  ]
+ },
+ "sections": [
+  {
+   "id": "in",
+   "name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "start": 0.0,
+   "end": 16.108
+  },
+  {
+   "id": "v",
+   "name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "start": 16.108,
+   "end": 43.274
+  },
+  {
+   "id": "pc",
+   "name": "Pre-Chorus – The Secret",
+   "kind": "mid",
+   "start": 43.274,
+   "end": 53.462
+  },
+  {
+   "id": "ch",
+   "name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "start": 53.462,
+   "end": 71.568
+  },
+  {
+   "id": "vb",
+   "name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "start": 71.568,
+   "end": 88.546
+  },
+  {
+   "id": "vbb",
+   "name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "start": 88.546,
+   "end": 115.677
+  },
+  {
+   "id": "br",
+   "name": "Bridge – Persian Feast",
+   "kind": "mid",
+   "start": 115.677,
+   "end": 137.208
+  },
+  {
+   "id": "fin",
+   "name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "start": 137.208,
+   "end": 156.106
+  },
+  {
+   "id": "ou",
+   "name": "Outro – Spoken, Funny",
+   "kind": "mid",
+   "start": 156.106,
+   "end": 171.763
+  },
+  {
+   "id": "outro",
+   "name": "(instrumental)",
+   "kind": "calm",
+   "start": 171.763,
+   "end": 180.68
+  }
+ ],
+ "lines": [
+  {
+   "id": "in-01",
+   "section": "in",
+   "text": "Hey, everybody!",
+   "start": 0.897,
+   "end": 2.111,
+   "words": [
+    {
+     "w": "Hey,",
+     "t": 0.897
+    },
+    {
+     "w": "everybody!",
+     "t": 1.201
+    }
+   ]
+  },
+  {
+   "id": "in-02",
+   "section": "in",
+   "text": "Forget the burgers, forget the fries!",
+   "start": 2.565,
+   "end": 5.091,
+   "words": [
+    {
+     "w": "Forget",
+     "t": 2.565
+    },
+    {
+     "w": "the",
+     "t": 3.02
+    },
+    {
+     "w": "burgers,",
+     "t": 3.172
+    },
+    {
+     "w": "forget",
+     "t": 3.627
+    },
+    {
+     "w": "the",
+     "t": 3.93
+    },
+    {
+     "w": "fries!",
+     "t": 4.233
+    }
+   ]
+  },
+  {
+   "id": "in-03",
+   "section": "in",
+   "text": "Tonight we’re making Persian chicken paradise!",
+   "start": 5.267,
+   "end": 7.768,
+   "words": [
+    {
+     "w": "Tonight",
+     "t": 5.267
+    },
+    {
+     "w": "we’re",
+     "t": 5.62
+    },
+    {
+     "w": "making",
+     "t": 5.796
+    },
+    {
+     "w": "Persian",
+     "t": 6.113
+    },
+    {
+     "w": "chicken",
+     "t": 6.588
+    },
+    {
+     "w": "paradise!",
+     "t": 6.905
+    }
+   ]
+  },
+  {
+   "id": "in-04",
+   "section": "in",
+   "text": "Get your saffron, grab your skewers…",
+   "start": 8.616,
+   "end": 11.581,
+   "words": [
+    {
+     "w": "Get",
+     "t": 8.616
+    },
+    {
+     "w": "your",
+     "t": 9.04
+    },
+    {
+     "w": "saffron,",
+     "t": 9.323
+    },
+    {
+     "w": "grab",
+     "t": 9.886
+    },
+    {
+     "w": "your",
+     "t": 10.45
+    },
+    {
+     "w": "skewers…",
+     "t": 10.732
+    }
+   ]
+  },
+  {
+   "id": "in-05",
+   "section": "in",
+   "text": "Let’s make some Joojeh Kebab!",
+   "start": 12.709,
+   "end": 15.114,
+   "words": [
+    {
+     "w": "Let’s",
+     "t": 12.709
+    },
+    {
+     "w": "make",
+     "t": 12.993
+    },
+    {
+     "w": "some",
+     "t": 13.277
+    },
+    {
+     "w": "Joojeh",
+     "t": 13.56
+    },
+    {
+     "w": "Kebab!",
+     "t": 14.267
+    }
+   ]
+  },
+  {
+   "id": "v-01",
+   "section": "v",
+   "text": "Two pounds of chicken, cut into squares,",
+   "start": 16.249,
+   "end": 19.928,
+   "words": [
+    {
+     "w": "Two",
+     "t": 16.249
+    },
+    {
+     "w": "pounds",
+     "t": 16.532
+    },
+    {
+     "w": "of",
+     "t": 16.956
+    },
+    {
+     "w": "chicken,",
+     "t": 17.098
+    },
+    {
+     "w": "cut",
+     "t": 17.663
+    },
+    {
+     "w": "into",
+     "t": 18.794
+    },
+    {
+     "w": "squares,",
+     "t": 19.078
+    }
+   ]
+  },
+  {
+   "id": "v-02",
+   "section": "v",
+   "text": "Boneless thighs or breasts, nobody cares!",
+   "start": 21.486,
+   "end": 24.458,
+   "words": [
+    {
+     "w": "Boneless",
+     "t": 21.486
+    },
+    {
+     "w": "thighs",
+     "t": 21.91
+    },
+    {
+     "w": "or",
+     "t": 22.477
+    },
+    {
+     "w": "breasts,",
+     "t": 22.618
+    },
+    {
+     "w": "nobody",
+     "t": 23.043
+    },
+    {
+     "w": "cares!",
+     "t": 23.608
+    }
+   ]
+  },
+  {
+   "id": "v-03",
+   "section": "v",
+   "text": "Two onions sliced, let the flavor flow,",
+   "start": 25.309,
+   "end": 29.129,
+   "words": [
+    {
+     "w": "Two",
+     "t": 25.309
+    },
+    {
+     "w": "onions",
+     "t": 25.593
+    },
+    {
+     "w": "sliced,",
+     "t": 26.017
+    },
+    {
+     "w": "let",
+     "t": 26.866
+    },
+    {
+     "w": "the",
+     "t": 27.715
+    },
+    {
+     "w": "flavor",
+     "t": 27.856
+    },
+    {
+     "w": "flow,",
+     "t": 28.28
+    }
+   ]
+  },
+  {
+   "id": "v-04",
+   "section": "v",
+   "text": "Add some yogurt if you like it slow.",
+   "start": 29.837,
+   "end": 33.655,
+   "words": [
+    {
+     "w": "Add",
+     "t": 29.837
+    },
+    {
+     "w": "some",
+     "t": 30.261
+    },
+    {
+     "w": "yogurt",
+     "t": 30.544
+    },
+    {
+     "w": "if",
+     "t": 31.958
+    },
+    {
+     "w": "you",
+     "t": 32.383
+    },
+    {
+     "w": "like",
+     "t": 32.524
+    },
+    {
+     "w": "it",
+     "t": 32.665
+    },
+    {
+     "w": "slow.",
+     "t": 32.806
+    }
+   ]
+  },
+  {
+   "id": "v-05",
+   "section": "v",
+   "text": "Fresh lemon juice, a little lime,",
+   "start": 34.362,
+   "end": 36.767,
+   "words": [
+    {
+     "w": "Fresh",
+     "t": 34.362
+    },
+    {
+     "w": "lemon",
+     "t": 34.645
+    },
+    {
+     "w": "juice,",
+     "t": 34.928
+    },
+    {
+     "w": "a",
+     "t": 35.777
+    },
+    {
+     "w": "little",
+     "t": 35.918
+    },
+    {
+     "w": "lime,",
+     "t": 36.201
+    }
+   ]
+  },
+  {
+   "id": "v-06",
+   "section": "v",
+   "text": "Olive oil to make it shine!",
+   "start": 36.908,
+   "end": 39.03,
+   "words": [
+    {
+     "w": "Olive",
+     "t": 36.908
+    },
+    {
+     "w": "oil",
+     "t": 37.333
+    },
+    {
+     "w": "to",
+     "t": 37.758
+    },
+    {
+     "w": "make",
+     "t": 37.899
+    },
+    {
+     "w": "it",
+     "t": 38.182
+    },
+    {
+     "w": "shine!",
+     "t": 38.465
+    }
+   ]
+  },
+  {
+   "id": "v-07",
+   "section": "v",
+   "text": "Salt and pepper, just a pinch,",
+   "start": 39.172,
+   "end": 41.153,
+   "words": [
+    {
+     "w": "Salt",
+     "t": 39.172
+    },
+    {
+     "w": "and",
+     "t": 39.455
+    },
+    {
+     "w": "pepper,",
+     "t": 39.737
+    },
+    {
+     "w": "just",
+     "t": 40.162
+    },
+    {
+     "w": "a",
+     "t": 40.728
+    },
+    {
+     "w": "pinch,",
+     "t": 40.87
+    }
+   ]
+  },
+  {
+   "id": "v-08",
+   "section": "v",
+   "text": "Turmeric too, for a golden finish!",
+   "start": 41.294,
+   "end": 43.84,
+   "words": [
+    {
+     "w": "Turmeric",
+     "t": 41.294
+    },
+    {
+     "w": "too,",
+     "t": 41.718
+    },
+    {
+     "w": "for",
+     "t": 42.142
+    },
+    {
+     "w": "a",
+     "t": 42.566
+    },
+    {
+     "w": "golden",
+     "t": 42.708
+    },
+    {
+     "w": "finish!",
+     "t": 42.991
+    }
+   ]
+  },
+  {
+   "id": "pc-01",
+   "section": "pc",
+   "text": "But wait a minute, here’s the key,",
+   "start": 43.981,
+   "end": 46.527,
+   "words": [
+    {
+     "w": "But",
+     "t": 43.981
+    },
+    {
+     "w": "wait",
+     "t": 44.264
+    },
+    {
+     "w": "a",
+     "t": 44.688
+    },
+    {
+     "w": "minute,",
+     "t": 44.829
+    },
+    {
+     "w": "here’s",
+     "t": 45.112
+    },
+    {
+     "w": "the",
+     "t": 45.82
+    },
+    {
+     "w": "key,",
+     "t": 45.962
+    }
+   ]
+  },
+  {
+   "id": "pc-02",
+   "section": "pc",
+   "text": "Saffron water, strong and free!",
+   "start": 46.669,
+   "end": 48.508,
+   "words": [
+    {
+     "w": "Saffron",
+     "t": 46.669
+    },
+    {
+     "w": "water,",
+     "t": 47.093
+    },
+    {
+     "w": "strong",
+     "t": 47.517
+    },
+    {
+     "w": "and",
+     "t": 47.941
+    },
+    {
+     "w": "free!",
+     "t": 48.083
+    }
+   ]
+  },
+  {
+   "id": "pc-03",
+   "section": "pc",
+   "text": "Crush those threads, add water hot,",
+   "start": 48.649,
+   "end": 50.912,
+   "words": [
+    {
+     "w": "Crush",
+     "t": 48.649
+    },
+    {
+     "w": "those",
+     "t": 49.074
+    },
+    {
+     "w": "threads,",
+     "t": 49.356
+    },
+    {
+     "w": "add",
+     "t": 49.639
+    },
+    {
+     "w": "water",
+     "t": 49.922
+    },
+    {
+     "w": "hot,",
+     "t": 50.346
+    }
+   ]
+  },
+  {
+   "id": "pc-04",
+   "section": "pc",
+   "text": "That’s the magic, that’s the spot!",
+   "start": 51.053,
+   "end": 53.321,
+   "words": [
+    {
+     "w": "That’s",
+     "t": 51.053
+    },
+    {
+     "w": "the",
+     "t": 51.479
+    },
+    {
+     "w": "magic,",
+     "t": 51.621
+    },
+    {
+     "w": "that’s",
+     "t": 52.188
+    },
+    {
+     "w": "the",
+     "t": 52.613
+    },
+    {
+     "w": "spot!",
+     "t": 52.755
+    }
+   ]
+  },
+  {
+   "id": "ch-01",
+   "section": "ch",
+   "text": "Joo-jeh! Joo-jeh!",
+   "start": 53.462,
+   "end": 55.018,
+   "words": [
+    {
+     "w": "Joo-jeh!",
+     "t": 53.462
+    },
+    {
+     "w": "Joo-jeh!",
+     "t": 54.311
+    }
+   ]
+  },
+  {
+   "id": "ch-02",
+   "section": "ch",
+   "text": "Golden chicken, come my way!",
+   "start": 55.16,
+   "end": 57.282,
+   "words": [
+    {
+     "w": "Golden",
+     "t": 55.16
+    },
+    {
+     "w": "chicken,",
+     "t": 55.442
+    },
+    {
+     "w": "come",
+     "t": 55.867
+    },
+    {
+     "w": "my",
+     "t": 56.432
+    },
+    {
+     "w": "way!",
+     "t": 56.715
+    }
+   ]
+  },
+  {
+   "id": "ch-03",
+   "section": "ch",
+   "text": "Saffron shining, lemon bright,",
+   "start": 57.423,
+   "end": 59.544,
+   "words": [
+    {
+     "w": "Saffron",
+     "t": 57.423
+    },
+    {
+     "w": "shining,",
+     "t": 57.847
+    },
+    {
+     "w": "lemon",
+     "t": 58.272
+    },
+    {
+     "w": "bright,",
+     "t": 58.696
+    }
+   ]
+  },
+  {
+   "id": "ch-04",
+   "section": "ch",
+   "text": "Persian chicken done just right!",
+   "start": 59.686,
+   "end": 62.09,
+   "words": [
+    {
+     "w": "Persian",
+     "t": 59.686
+    },
+    {
+     "w": "chicken",
+     "t": 59.969
+    },
+    {
+     "w": "done",
+     "t": 60.394
+    },
+    {
+     "w": "just",
+     "t": 60.818
+    },
+    {
+     "w": "right!",
+     "t": 61.242
+    }
+   ]
+  },
+  {
+   "id": "ch-05",
+   "section": "ch",
+   "text": "Joo-jeh! Joo-jeh!",
+   "start": 62.515,
+   "end": 63.93,
+   "words": [
+    {
+     "w": "Joo-jeh!",
+     "t": 62.515
+    },
+    {
+     "w": "Joo-jeh!",
+     "t": 63.364
+    }
+   ]
+  },
+  {
+   "id": "ch-06",
+   "section": "ch",
+   "text": "Let it marinate away!",
+   "start": 64.071,
+   "end": 66.052,
+   "words": [
+    {
+     "w": "Let",
+     "t": 64.071
+    },
+    {
+     "w": "it",
+     "t": 64.353
+    },
+    {
+     "w": "marinate",
+     "t": 64.495
+    },
+    {
+     "w": "away!",
+     "t": 65.344
+    }
+   ]
+  },
+  {
+   "id": "ch-07",
+   "section": "ch",
+   "text": "On the fire, smell that heat,",
+   "start": 66.334,
+   "end": 68.315,
+   "words": [
+    {
+     "w": "On",
+     "t": 66.334
+    },
+    {
+     "w": "the",
+     "t": 66.618
+    },
+    {
+     "w": "fire,",
+     "t": 66.759
+    },
+    {
+     "w": "smell",
+     "t": 67.325
+    },
+    {
+     "w": "that",
+     "t": 67.607
+    },
+    {
+     "w": "heat,",
+     "t": 68.031
+    }
+   ]
+  },
+  {
+   "id": "ch-08",
+   "section": "ch",
+   "text": "Nothing beats this juicy treat!",
+   "start": 68.456,
+   "end": 71.002,
+   "words": [
+    {
+     "w": "Nothing",
+     "t": 68.456
+    },
+    {
+     "w": "beats",
+     "t": 68.881
+    },
+    {
+     "w": "this",
+     "t": 69.447
+    },
+    {
+     "w": "juicy",
+     "t": 69.73
+    },
+    {
+     "w": "treat!",
+     "t": 70.154
+    }
+   ]
+  },
+  {
+   "id": "vb-01",
+   "section": "vb",
+   "text": "Mix it up and coat each piece,",
+   "start": 71.568,
+   "end": 73.69,
+   "words": [
+    {
+     "w": "Mix",
+     "t": 71.568
+    },
+    {
+     "w": "it",
+     "t": 71.993
+    },
+    {
+     "w": "up",
+     "t": 72.134
+    },
+    {
+     "w": "and",
+     "t": 72.417
+    },
+    {
+     "w": "coat",
+     "t": 72.559
+    },
+    {
+     "w": "each",
+     "t": 72.841
+    },
+    {
+     "w": "piece,",
+     "t": 72.983
+    }
+   ]
+  },
+  {
+   "id": "vb-02",
+   "section": "vb",
+   "text": "Let the flavors have their peace!",
+   "start": 73.831,
+   "end": 75.953,
+   "words": [
+    {
+     "w": "Let",
+     "t": 73.831
+    },
+    {
+     "w": "the",
+     "t": 74.114
+    },
+    {
+     "w": "flavors",
+     "t": 74.256
+    },
+    {
+     "w": "have",
+     "t": 74.68
+    },
+    {
+     "w": "their",
+     "t": 75.104
+    },
+    {
+     "w": "peace!",
+     "t": 75.245
+    }
+   ]
+  },
+  {
+   "id": "vb-03",
+   "section": "vb",
+   "text": "Cover tight and chill all night,",
+   "start": 76.094,
+   "end": 77.791,
+   "words": [
+    {
+     "w": "Cover",
+     "t": 76.094
+    },
+    {
+     "w": "tight",
+     "t": 76.518
+    },
+    {
+     "w": "and",
+     "t": 76.802
+    },
+    {
+     "w": "chill",
+     "t": 77.084
+    },
+    {
+     "w": "all",
+     "t": 77.367
+    },
+    {
+     "w": "night,",
+     "t": 77.508
+    }
+   ]
+  },
+  {
+   "id": "vb-04",
+   "section": "vb",
+   "text": "Four hours minimum works just right.",
+   "start": 77.933,
+   "end": 80.063,
+   "words": [
+    {
+     "w": "Four",
+     "t": 77.933
+    },
+    {
+     "w": "hours",
+     "t": 78.215
+    },
+    {
+     "w": "minimum",
+     "t": 78.64
+    },
+    {
+     "w": "works",
+     "t": 79.206
+    },
+    {
+     "w": "just",
+     "t": 79.631
+    },
+    {
+     "w": "right.",
+     "t": 79.913
+    }
+   ]
+  },
+  {
+   "id": "vb-05",
+   "section": "vb",
+   "text": "Don’t rush the chicken, let it rest,",
+   "start": 80.196,
+   "end": 82.318,
+   "words": [
+    {
+     "w": "Don’t",
+     "t": 80.196
+    },
+    {
+     "w": "rush",
+     "t": 80.479
+    },
+    {
+     "w": "the",
+     "t": 80.762
+    },
+    {
+     "w": "chicken,",
+     "t": 81.044
+    },
+    {
+     "w": "let",
+     "t": 81.611
+    },
+    {
+     "w": "it",
+     "t": 81.893
+    },
+    {
+     "w": "rest,",
+     "t": 82.035
+    }
+   ]
+  },
+  {
+   "id": "vb-06",
+   "section": "vb",
+   "text": "That’s how you make the very best!",
+   "start": 82.459,
+   "end": 84.454,
+   "words": [
+    {
+     "w": "That’s",
+     "t": 82.459
+    },
+    {
+     "w": "how",
+     "t": 82.884
+    },
+    {
+     "w": "you",
+     "t": 83.027
+    },
+    {
+     "w": "make",
+     "t": 83.169
+    },
+    {
+     "w": "the",
+     "t": 83.596
+    },
+    {
+     "w": "very",
+     "t": 83.88
+    },
+    {
+     "w": "best!",
+     "t": 84.304
+    }
+   ]
+  },
+  {
+   "id": "vb-07",
+   "section": "vb",
+   "text": "Before the grill, shake off the sauce,",
+   "start": 84.587,
+   "end": 86.85,
+   "words": [
+    {
+     "w": "Before",
+     "t": 84.587
+    },
+    {
+     "w": "the",
+     "t": 84.87
+    },
+    {
+     "w": "grill,",
+     "t": 85.152
+    },
+    {
+     "w": "shake",
+     "t": 85.576
+    },
+    {
+     "w": "off",
+     "t": 86.141
+    },
+    {
+     "w": "the",
+     "t": 86.424
+    },
+    {
+     "w": "sauce,",
+     "t": 86.566
+    }
+   ]
+  },
+  {
+   "id": "vb-08",
+   "section": "vb",
+   "text": "Too much marinade can cause a loss!",
+   "start": 86.991,
+   "end": 89.255,
+   "words": [
+    {
+     "w": "Too",
+     "t": 86.991
+    },
+    {
+     "w": "much",
+     "t": 87.274
+    },
+    {
+     "w": "marinade",
+     "t": 87.556
+    },
+    {
+     "w": "can",
+     "t": 87.981
+    },
+    {
+     "w": "cause",
+     "t": 88.405
+    },
+    {
+     "w": "a",
+     "t": 88.829
+    },
+    {
+     "w": "loss!",
+     "t": 88.971
+    }
+   ]
+  },
+  {
+   "id": "vbb-01",
+   "section": "vbb",
+   "text": "Take your skewers, slide them through,",
+   "start": 89.396,
+   "end": 91.518,
+   "words": [
+    {
+     "w": "Take",
+     "t": 89.396
+    },
+    {
+     "w": "your",
+     "t": 89.82
+    },
+    {
+     "w": "skewers,",
+     "t": 90.103
+    },
+    {
+     "w": "slide",
+     "t": 90.668
+    },
+    {
+     "w": "them",
+     "t": 90.809
+    },
+    {
+     "w": "through,",
+     "t": 91.093
+    }
+   ]
+  },
+  {
+   "id": "vbb-02",
+   "section": "vbb",
+   "text": "Leave a little space between each cube!",
+   "start": 91.659,
+   "end": 93.777,
+   "words": [
+    {
+     "w": "Leave",
+     "t": 91.659
+    },
+    {
+     "w": "a",
+     "t": 92.083
+    },
+    {
+     "w": "little",
+     "t": 92.225
+    },
+    {
+     "w": "space",
+     "t": 92.366
+    },
+    {
+     "w": "between",
+     "t": 92.648
+    },
+    {
+     "w": "each",
+     "t": 93.072
+    },
+    {
+     "w": "cube!",
+     "t": 93.495
+    }
+   ]
+  },
+  {
+   "id": "vbb-03",
+   "section": "vbb",
+   "text": "Keep the pieces even in size,",
+   "start": 93.918,
+   "end": 95.899,
+   "words": [
+    {
+     "w": "Keep",
+     "t": 93.918
+    },
+    {
+     "w": "the",
+     "t": 94.341
+    },
+    {
+     "w": "pieces",
+     "t": 94.625
+    },
+    {
+     "w": "even",
+     "t": 94.907
+    },
+    {
+     "w": "in",
+     "t": 95.473
+    },
+    {
+     "w": "size,",
+     "t": 95.615
+    }
+   ]
+  },
+  {
+   "id": "vbb-04",
+   "section": "vbb",
+   "text": "That’s how you get that perfect prize!",
+   "start": 96.041,
+   "end": 98.447,
+   "words": [
+    {
+     "w": "That’s",
+     "t": 96.041
+    },
+    {
+     "w": "how",
+     "t": 96.467
+    },
+    {
+     "w": "you",
+     "t": 96.608
+    },
+    {
+     "w": "get",
+     "t": 96.892
+    },
+    {
+     "w": "that",
+     "t": 97.174
+    },
+    {
+     "w": "perfect",
+     "t": 97.458
+    },
+    {
+     "w": "prize!",
+     "t": 97.882
+    }
+   ]
+  },
+  {
+   "id": "vbb-05",
+   "section": "vbb",
+   "text": "Charcoal glowing, flames are low,",
+   "start": 98.589,
+   "end": 100.566,
+   "words": [
+    {
+     "w": "Charcoal",
+     "t": 98.589
+    },
+    {
+     "w": "glowing,",
+     "t": 99.012
+    },
+    {
+     "w": "flames",
+     "t": 99.576
+    },
+    {
+     "w": "are",
+     "t": 99.858
+    },
+    {
+     "w": "low,",
+     "t": 100.141
+    }
+   ]
+  },
+  {
+   "id": "vbb-06",
+   "section": "vbb",
+   "text": "Place the chicken, let it go!",
+   "start": 100.707,
+   "end": 102.97,
+   "words": [
+    {
+     "w": "Place",
+     "t": 100.707
+    },
+    {
+     "w": "the",
+     "t": 101.131
+    },
+    {
+     "w": "chicken,",
+     "t": 101.414
+    },
+    {
+     "w": "let",
+     "t": 101.98
+    },
+    {
+     "w": "it",
+     "t": 102.262
+    },
+    {
+     "w": "go!",
+     "t": 102.404
+    }
+   ]
+  },
+  {
+   "id": "vbb-07",
+   "section": "vbb",
+   "text": "Turn it often, nice and slow,",
+   "start": 103.112,
+   "end": 105.375,
+   "words": [
+    {
+     "w": "Turn",
+     "t": 103.112
+    },
+    {
+     "w": "it",
+     "t": 103.535
+    },
+    {
+     "w": "often,",
+     "t": 103.677
+    },
+    {
+     "w": "nice",
+     "t": 104.243
+    },
+    {
+     "w": "and",
+     "t": 104.525
+    },
+    {
+     "w": "slow,",
+     "t": 104.809
+    }
+   ]
+  },
+  {
+   "id": "vbb-08",
+   "section": "vbb",
+   "text": "Golden edges start to show!",
+   "start": 105.516,
+   "end": 107.351,
+   "words": [
+    {
+     "w": "Golden",
+     "t": 105.516
+    },
+    {
+     "w": "edges",
+     "t": 105.798
+    },
+    {
+     "w": "start",
+     "t": 106.643
+    },
+    {
+     "w": "to",
+     "t": 106.785
+    },
+    {
+     "w": "show!",
+     "t": 107.067
+    }
+   ]
+  },
+  {
+   "id": "vbb-09",
+   "section": "vbb",
+   "text": "Brush with butter, saffron too,",
+   "start": 107.492,
+   "end": 109.753,
+   "words": [
+    {
+     "w": "Brush",
+     "t": 107.492
+    },
+    {
+     "w": "with",
+     "t": 107.916
+    },
+    {
+     "w": "butter,",
+     "t": 108.2
+    },
+    {
+     "w": "saffron",
+     "t": 108.766
+    },
+    {
+     "w": "too,",
+     "t": 109.33
+    }
+   ]
+  },
+  {
+   "id": "vbb-10",
+   "section": "vbb",
+   "text": "Lemon butter coming through!",
+   "start": 109.894,
+   "end": 111.728,
+   "words": [
+    {
+     "w": "Lemon",
+     "t": 109.894
+    },
+    {
+     "w": "butter",
+     "t": 110.176
+    },
+    {
+     "w": "coming",
+     "t": 111.022
+    },
+    {
+     "w": "through!",
+     "t": 111.304
+    }
+   ]
+  },
+  {
+   "id": "vbb-11",
+   "section": "vbb",
+   "text": "Cook it fully, don’t guess the time,",
+   "start": 111.869,
+   "end": 113.845,
+   "words": [
+    {
+     "w": "Cook",
+     "t": 111.869
+    },
+    {
+     "w": "it",
+     "t": 112.153
+    },
+    {
+     "w": "fully,",
+     "t": 112.294
+    },
+    {
+     "w": "don’t",
+     "t": 112.576
+    },
+    {
+     "w": "guess",
+     "t": 112.717
+    },
+    {
+     "w": "the",
+     "t": 112.999
+    },
+    {
+     "w": "time,",
+     "t": 113.281
+    }
+   ]
+  },
+  {
+   "id": "vbb-12",
+   "section": "vbb",
+   "text": "Seventy-four degrees — that’s the line!",
+   "start": 113.986,
+   "end": 116.523,
+   "words": [
+    {
+     "w": "Seventy-four",
+     "t": 113.986
+    },
+    {
+     "w": "degrees",
+     "t": 114.409
+    },
+    {
+     "w": "that’s",
+     "t": 115.536
+    },
+    {
+     "w": "the",
+     "t": 115.959
+    },
+    {
+     "w": "line!",
+     "t": 116.1
+    }
+   ]
+  },
+  {
+   "id": "br-01",
+   "section": "br",
+   "text": "Grilled tomatoes, side by side,",
+   "start": 116.664,
+   "end": 118.638,
+   "words": [
+    {
+     "w": "Grilled",
+     "t": 116.664
+    },
+    {
+     "w": "tomatoes,",
+     "t": 117.087
+    },
+    {
+     "w": "side",
+     "t": 117.651
+    },
+    {
+     "w": "by",
+     "t": 118.074
+    },
+    {
+     "w": "side,",
+     "t": 118.356
+    }
+   ]
+  },
+  {
+   "id": "br-02",
+   "section": "br",
+   "text": "Fresh green herbs and onions fried!",
+   "start": 118.779,
+   "end": 121.171,
+   "words": [
+    {
+     "w": "Fresh",
+     "t": 118.779
+    },
+    {
+     "w": "green",
+     "t": 119.201
+    },
+    {
+     "w": "herbs",
+     "t": 119.481
+    },
+    {
+     "w": "and",
+     "t": 119.903
+    },
+    {
+     "w": "onions",
+     "t": 120.184
+    },
+    {
+     "w": "fried!",
+     "t": 120.466
+    }
+   ]
+  },
+  {
+   "id": "br-03",
+   "section": "br",
+   "text": "Saffron rice, a little butter,",
+   "start": 121.312,
+   "end": 123.426,
+   "words": [
+    {
+     "w": "Saffron",
+     "t": 121.312
+    },
+    {
+     "w": "rice,",
+     "t": 121.734
+    },
+    {
+     "w": "a",
+     "t": 122.298
+    },
+    {
+     "w": "little",
+     "t": 122.439
+    },
+    {
+     "w": "butter,",
+     "t": 122.721
+    }
+   ]
+  },
+  {
+   "id": "br-04",
+   "section": "br",
+   "text": "Persian flavors, nothing better!",
+   "start": 123.567,
+   "end": 125.677,
+   "words": [
+    {
+     "w": "Persian",
+     "t": 123.567
+    },
+    {
+     "w": "flavors,",
+     "t": 123.848
+    },
+    {
+     "w": "nothing",
+     "t": 124.55
+    },
+    {
+     "w": "better!",
+     "t": 124.831
+    }
+   ]
+  },
+  {
+   "id": "br-05",
+   "section": "br",
+   "text": "Sumac sprinkled, lemon squeezed,",
+   "start": 125.818,
+   "end": 127.928,
+   "words": [
+    {
+     "w": "Sumac",
+     "t": 125.818
+    },
+    {
+     "w": "sprinkled,",
+     "t": 126.241
+    },
+    {
+     "w": "lemon",
+     "t": 126.805
+    },
+    {
+     "w": "squeezed,",
+     "t": 127.227
+    }
+   ]
+  },
+  {
+   "id": "br-06",
+   "section": "br",
+   "text": "Eat it hot, enjoy the feast!",
+   "start": 128.069,
+   "end": 129.768,
+   "words": [
+    {
+     "w": "Eat",
+     "t": 128.069
+    },
+    {
+     "w": "it",
+     "t": 128.21
+    },
+    {
+     "w": "hot,",
+     "t": 128.351
+    },
+    {
+     "w": "enjoy",
+     "t": 128.633
+    },
+    {
+     "w": "the",
+     "t": 129.338
+    },
+    {
+     "w": "feast!",
+     "t": 129.618
+    }
+   ]
+  },
+  {
+   "id": "br-07",
+   "section": "br",
+   "text": "From Persian kitchens to the world,",
+   "start": 129.759,
+   "end": 132.291,
+   "words": [
+    {
+     "w": "From",
+     "t": 129.759
+    },
+    {
+     "w": "Persian",
+     "t": 130.18
+    },
+    {
+     "w": "kitchens",
+     "t": 130.602
+    },
+    {
+     "w": "to",
+     "t": 131.307
+    },
+    {
+     "w": "the",
+     "t": 131.589
+    },
+    {
+     "w": "world,",
+     "t": 131.869
+    }
+   ]
+  },
+  {
+   "id": "br-08",
+   "section": "br",
+   "text": "Joojeh Kebab, the golden bird!",
+   "start": 132.431,
+   "end": 134.963,
+   "words": [
+    {
+     "w": "Joojeh",
+     "t": 132.431
+    },
+    {
+     "w": "Kebab,",
+     "t": 132.854
+    },
+    {
+     "w": "the",
+     "t": 133.558
+    },
+    {
+     "w": "golden",
+     "t": 133.699
+    },
+    {
+     "w": "bird!",
+     "t": 134.12
+    }
+   ]
+  },
+  {
+   "id": "fin-01",
+   "section": "fin",
+   "text": "Joo-jeh! Joo-jeh!",
+   "start": 137.208,
+   "end": 138.611,
+   "words": [
+    {
+     "w": "Joo-jeh!",
+     "t": 137.208
+    },
+    {
+     "w": "Joo-jeh!",
+     "t": 137.91
+    }
+   ]
+  },
+  {
+   "id": "fin-02",
+   "section": "fin",
+   "text": "Golden chicken, hip hooray!",
+   "start": 138.751,
+   "end": 140.854,
+   "words": [
+    {
+     "w": "Golden",
+     "t": 138.751
+    },
+    {
+     "w": "chicken,",
+     "t": 139.031
+    },
+    {
+     "w": "hip",
+     "t": 139.732
+    },
+    {
+     "w": "hooray!",
+     "t": 140.013
+    }
+   ]
+  },
+  {
+   "id": "fin-03",
+   "section": "fin",
+   "text": "Saffron, lemon, charcoal heat,",
+   "start": 140.994,
+   "end": 143.093,
+   "words": [
+    {
+     "w": "Saffron,",
+     "t": 140.994
+    },
+    {
+     "w": "lemon,",
+     "t": 141.414
+    },
+    {
+     "w": "charcoal",
+     "t": 141.834
+    },
+    {
+     "w": "heat,",
+     "t": 142.534
+    }
+   ]
+  },
+  {
+   "id": "fin-04",
+   "section": "fin",
+   "text": "Persian cooking can’t be beat!",
+   "start": 143.233,
+   "end": 145.472,
+   "words": [
+    {
+     "w": "Persian",
+     "t": 143.233
+    },
+    {
+     "w": "cooking",
+     "t": 143.513
+    },
+    {
+     "w": "can’t",
+     "t": 144.353
+    },
+    {
+     "w": "be",
+     "t": 144.493
+    },
+    {
+     "w": "beat!",
+     "t": 144.633
+    }
+   ]
+  },
+  {
+   "id": "fin-05",
+   "section": "fin",
+   "text": "Joo-jeh! Joo-jeh!",
+   "start": 146.032,
+   "end": 147.156,
+   "words": [
+    {
+     "w": "Joo-jeh!",
+     "t": 146.032
+    },
+    {
+     "w": "Joo-jeh!",
+     "t": 146.875
+    }
+   ]
+  },
+  {
+   "id": "fin-06",
+   "section": "fin",
+   "text": "Bring your friends and come this way!",
+   "start": 147.296,
+   "end": 149.535,
+   "words": [
+    {
+     "w": "Bring",
+     "t": 147.296
+    },
+    {
+     "w": "your",
+     "t": 147.576
+    },
+    {
+     "w": "friends",
+     "t": 147.995
+    },
+    {
+     "w": "and",
+     "t": 148.555
+    },
+    {
+     "w": "come",
+     "t": 148.695
+    },
+    {
+     "w": "this",
+     "t": 148.975
+    },
+    {
+     "w": "way!",
+     "t": 149.255
+    }
+   ]
+  },
+  {
+   "id": "fin-07",
+   "section": "fin",
+   "text": "Rice and butter, herbs so green,",
+   "start": 149.675,
+   "end": 151.914,
+   "words": [
+    {
+     "w": "Rice",
+     "t": 149.675
+    },
+    {
+     "w": "and",
+     "t": 150.095
+    },
+    {
+     "w": "butter,",
+     "t": 150.375
+    },
+    {
+     "w": "herbs",
+     "t": 151.075
+    },
+    {
+     "w": "so",
+     "t": 151.354
+    },
+    {
+     "w": "green,",
+     "t": 151.494
+    }
+   ]
+  },
+  {
+   "id": "fin-08",
+   "section": "fin",
+   "text": "Best chicken you’ve ever seen!",
+   "start": 152.054,
+   "end": 154.43,
+   "words": [
+    {
+     "w": "Best",
+     "t": 152.054
+    },
+    {
+     "w": "chicken",
+     "t": 152.334
+    },
+    {
+     "w": "you’ve",
+     "t": 152.754
+    },
+    {
+     "w": "ever",
+     "t": 153.312
+    },
+    {
+     "w": "seen!",
+     "t": 153.591
+    }
+   ]
+  },
+  {
+   "id": "ou-01",
+   "section": "ou",
+   "text": "And remember, my friends…",
+   "start": 155.269,
+   "end": 157.645,
+   "words": [
+    {
+     "w": "And",
+     "t": 155.269
+    },
+    {
+     "w": "remember,",
+     "t": 155.548
+    },
+    {
+     "w": "my",
+     "t": 156.385
+    },
+    {
+     "w": "friends…",
+     "t": 156.805
+    }
+   ]
+  },
+  {
+   "id": "ou-02",
+   "section": "ou",
+   "text": "Saffron is gold, patience is key,",
+   "start": 158.764,
+   "end": 161.559,
+   "words": [
+    {
+     "w": "Saffron",
+     "t": 158.764
+    },
+    {
+     "w": "is",
+     "t": 159.184
+    },
+    {
+     "w": "gold,",
+     "t": 159.324
+    },
+    {
+     "w": "patience",
+     "t": 159.882
+    },
+    {
+     "w": "is",
+     "t": 160.579
+    },
+    {
+     "w": "key,",
+     "t": 160.999
+    }
+   ]
+  },
+  {
+   "id": "ou-03",
+   "section": "ou",
+   "text": "And never serve raw chicken at your barbecue!",
+   "start": 161.699,
+   "end": 164.915,
+   "words": [
+    {
+     "w": "And",
+     "t": 161.699
+    },
+    {
+     "w": "never",
+     "t": 162.119
+    },
+    {
+     "w": "serve",
+     "t": 162.259
+    },
+    {
+     "w": "raw",
+     "t": 162.818
+    },
+    {
+     "w": "chicken",
+     "t": 163.238
+    },
+    {
+     "w": "at",
+     "t": 163.658
+    },
+    {
+     "w": "your",
+     "t": 163.938
+    },
+    {
+     "w": "barbecue!",
+     "t": 164.077
+    }
+   ]
+  },
+  {
+   "id": "ou-04",
+   "section": "ou",
+   "text": "Joojeh Kebab!",
+   "start": 166.174,
+   "end": 167.289,
+   "words": [
+    {
+     "w": "Joojeh",
+     "t": 166.174
+    },
+    {
+     "w": "Kebab!",
+     "t": 166.453
+    }
+   ]
+  },
+  {
+   "id": "ou-05",
+   "section": "ou",
+   "text": "That’s Persian magic!",
+   "start": 168.829,
+   "end": 170.086,
+   "words": [
+    {
+     "w": "That’s",
+     "t": 168.829
+    },
+    {
+     "w": "Persian",
+     "t": 168.829
+    },
+    {
+     "w": "magic!",
+     "t": 169.249
+    }
+   ]
+  }
+ ],
+ "captions": {
+  "hide": [],
+  "from_word": {},
+  "whisper": []
+ },
+ "theme": {
+  "bg": "#2a1208",
+  "font": "Arial Black, Arial",
+  "vignette": false,
+  "captionBand": false,
+  "flashes": []
+ }
+}

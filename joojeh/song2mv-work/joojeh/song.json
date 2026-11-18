@@ -1,0 +1,16 @@
+{
+ "audio": "D:\\job\\koobideh\\joojeh\\joojeh.mp3",
+ "language": "en",
+ "title": "Joojeh Kebab",
+ "section_kinds": {
+  "fin": "hot",
+  "ch": "hot"
+ },
+ "theme": {
+  "bg": "#2a1208",
+  "font": "Arial Black, Arial",
+  "vignette": false,
+  "captionBand": false,
+  "flashes": []
+ }
+}

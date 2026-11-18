@@ -1,0 +1,2455 @@
+{
+ "lines": [
+  {
+   "id": "in-01",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Hey, everybody!",
+   "words": [
+    "Hey,",
+    "everybody!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Hey everybody,",
+    "Hey everybody,",
+    "Hey everybody"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    1.013,
+    1.327
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-02",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "You want the secret to Persian delight?",
+   "words": [
+    "You",
+    "want",
+    "the",
+    "secret",
+    "to",
+    "Persian",
+    "delight?"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "you want the secret to Persian delights?",
+    "you want the secret to Persian delights?",
+    "you want the secret to Persian delights"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    2.937,
+    3.24,
+    3.403,
+    3.548,
+    3.91,
+    4.091,
+    4.531
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-03",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Let’s make some Koobideh tonight!",
+   "words": [
+    "Let’s",
+    "make",
+    "some",
+    "Koobideh",
+    "tonight!"
+   ],
+   "coverage": [
+    0.81,
+    0.81,
+    0.81
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Let's make some kubi there tonight!",
+    "Let's make some kubi there tonight,",
+    "let's make some cooby tonight."
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    5.78,
+    6.08,
+    6.26,
+    6.617,
+    7.343
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-04",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Get your skewers ready… fire up the grill!",
+   "words": [
+    "Get",
+    "your",
+    "skewers",
+    "ready…",
+    "fire",
+    "up",
+    "the",
+    "grill!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Get your skewers ready! Fire up the grill!",
+    "get your skewers ready, fire up the grill!",
+    "Get your skewers ready. Fire up the grill."
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    9.293,
+    9.593,
+    9.854,
+    10.362,
+    11.765,
+    12.32,
+    12.633,
+    12.832
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-01",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "Two pounds of lamb, or beef with some fat,",
+   "words": [
+    "Two",
+    "pounds",
+    "of",
+    "lamb,",
+    "or",
+    "beef",
+    "with",
+    "some",
+    "fat,"
+   ],
+   "coverage": [
+    0.94,
+    0.94,
+    0.94
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Two pounds of lamb, a beef with some fat",
+    "two pounds of lamb a beef with some fat",
+    "Two pounds of lamb, a beef with some fat,"
+   ],
+   "spread": 0.18,
+   "unsupported": null,
+   "wt": [
+    25.933,
+    26.232,
+    26.64,
+    26.855,
+    null,
+    27.402,
+    27.567,
+    27.78,
+    27.977
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-02",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "Three grated onions — now how about that?",
+   "words": [
+    "Three",
+    "grated",
+    "onions",
+    "now",
+    "how",
+    "about",
+    "that?"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "three grated onions now how about that",
+    "three grated onions now how about that",
+    "three grated onions. Now how about that?"
+   ],
+   "spread": 0.07,
+   "unsupported": null,
+   "wt": [
+    28.284,
+    28.538,
+    29.007,
+    29.383,
+    29.663,
+    29.9,
+    30.125
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-03",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "Squeeze out the juice, don’t let it stay,",
+   "words": [
+    "Squeeze",
+    "out",
+    "the",
+    "juice,",
+    "don’t",
+    "let",
+    "it",
+    "stay,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "squeeze out the juice don't let it stay",
+    "squeeze out the juice don't let it stay",
+    "Squeeze out the juice. Don't let it stay."
+   ],
+   "spread": 0.13,
+   "unsupported": null,
+   "wt": [
+    30.457,
+    30.74,
+    31.07,
+    31.226,
+    31.515,
+    31.933,
+    32.13,
+    32.267
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-04",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "We want that meat to hold its shape!",
+   "words": [
+    "We",
+    "want",
+    "that",
+    "meat",
+    "to",
+    "hold",
+    "its",
+    "shape!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "we want that meat to hold its shape",
+    "we want that meat to hold its shape",
+    "We want that meat to hold its shape."
+   ],
+   "spread": 0.17,
+   "unsupported": null,
+   "wt": [
+    32.76,
+    33.028,
+    33.252,
+    33.51,
+    33.79,
+    34.032,
+    34.32,
+    34.554
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-05",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "Add salt and pepper, season it right,",
+   "words": [
+    "Add",
+    "salt",
+    "and",
+    "pepper,",
+    "season",
+    "it",
+    "right,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "add salt and pepper season it right",
+    "add salt and pepper season it right",
+    "Add salt and pepper, season it right"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    34.913,
+    35.205,
+    35.43,
+    35.707,
+    36.045,
+    36.605,
+    36.846
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-06",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "A little turmeric if you like the bite.",
+   "words": [
+    "A",
+    "little",
+    "turmeric",
+    "if",
+    "you",
+    "like",
+    "the",
+    "bite."
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "a little turmeric if you like the bite",
+    "a little turmeric if you like the bite",
+    "A little turmeric if you like the bite"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    37.31,
+    37.498,
+    37.72,
+    38.165,
+    38.49,
+    38.57,
+    38.81,
+    39.0
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-07",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "Keep it simple, keep it real,",
+   "words": [
+    "Keep",
+    "it",
+    "simple,",
+    "keep",
+    "it",
+    "real,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "keep it simple keep it real",
+    "keep it simple keep it real",
+    "Keep it simple, keep it real"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    39.68,
+    39.99,
+    40.122,
+    40.645,
+    41.0,
+    41.182
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-08",
+   "section": "v",
+   "section_name": "Verse 1 – Ingredients",
+   "kind": "mid",
+   "text": "That’s how you start a Persian meal!",
+   "words": [
+    "That’s",
+    "how",
+    "you",
+    "start",
+    "a",
+    "Persian",
+    "meal!"
+   ],
+   "coverage": [
+    1.0,
+    0.96,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "that's how you start a Persian meal",
+    "that's Now you start a Persian meal",
+    "That's how you start a Persian meal"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    41.652,
+    41.977,
+    42.173,
+    42.358,
+    42.8,
+    42.951,
+    43.43
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-01",
+   "section": "pc",
+   "section_name": "Pre-Chorus – Build the Beat",
+   "kind": "mid",
+   "text": "Mix it, mash it, work that meat,",
+   "words": [
+    "Mix",
+    "it,",
+    "mash",
+    "it,",
+    "work",
+    "that",
+    "meat,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "mix it mash it work that meat",
+    "mix it, mash it, work that meat",
+    "Mix it, mash it, work that meat"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    44.573,
+    44.895,
+    45.24,
+    45.45,
+    45.695,
+    45.977,
+    46.278
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-02",
+   "section": "pc",
+   "section_name": "Pre-Chorus – Build the Beat",
+   "kind": "mid",
+   "text": "Knead it till the texture’s smooth and neat!",
+   "words": [
+    "Knead",
+    "it",
+    "till",
+    "the",
+    "texture’s",
+    "smooth",
+    "and",
+    "neat!"
+   ],
+   "coverage": [
+    0.97,
+    0.97,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "knead it till the texture smooth and neat",
+    "Knead it till the texture smooth and neat",
+    "Knead it till the texture's smooth and neat"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    46.792,
+    47.11,
+    47.215,
+    47.34,
+    47.457,
+    47.785,
+    48.217,
+    48.52
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-03",
+   "section": "pc",
+   "section_name": "Pre-Chorus – Build the Beat",
+   "kind": "mid",
+   "text": "Ten minutes strong, let the flavors unite,",
+   "words": [
+    "Ten",
+    "minutes",
+    "strong,",
+    "let",
+    "the",
+    "flavors",
+    "unite,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "ten minutes strong let the flavors unite",
+    "Ten minutes strong, let the flavors unite",
+    "Ten minutes strong, let the flavors unite"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    49.033,
+    49.317,
+    49.57,
+    50.017,
+    50.117,
+    50.219,
+    50.5
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-04",
+   "section": "pc",
+   "section_name": "Pre-Chorus – Build the Beat",
+   "kind": "mid",
+   "text": "Cover and chill it — let it rest overnight!",
+   "words": [
+    "Cover",
+    "and",
+    "chill",
+    "it",
+    "let",
+    "it",
+    "rest",
+    "overnight!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "cover and chill it Let it rest overnight",
+    "Cover and chill it, let it rest overnight",
+    "Cover and chill it, let it rest overnight"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    51.272,
+    51.617,
+    51.916,
+    52.095,
+    52.243,
+    52.385,
+    52.49,
+    52.739
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-01",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Koo-bi-deh! Koo-bi-deh!",
+   "words": [
+    "Koo-bi-deh!",
+    "Koo-bi-deh!"
+   ],
+   "coverage": [
+    0.56,
+    0.56,
+    0.56
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Kubi de, Kubi de",
+    "Kubi de, Kubi de,",
+    "Kubi de, Kubi de,"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    55.94,
+    56.8
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-02",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Persian kebab is on the way!",
+   "words": [
+    "Persian",
+    "kebab",
+    "is",
+    "on",
+    "the",
+    "way!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian kebab is on the way",
+    "Persian kebab is on the way",
+    "Persian kebab is on the way"
+   ],
+   "spread": 0.08,
+   "unsupported": null,
+   "wt": [
+    57.444,
+    57.8,
+    58.265,
+    58.645,
+    58.867,
+    59.05
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-03",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "On the skewer, on the flame,",
+   "words": [
+    "On",
+    "the",
+    "skewer,",
+    "on",
+    "the",
+    "flame,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "On the skewer, on the flame",
+    "On the skewer, on the flame",
+    "On the skewer, on the flame"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    59.77,
+    60.007,
+    60.172,
+    60.875,
+    61.063,
+    61.222
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-04",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Smoky, juicy, that’s the game!",
+   "words": [
+    "Smoky,",
+    "juicy,",
+    "that’s",
+    "the",
+    "game!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Smokey juicy, that's the game",
+    "Smoky, juicy, that's the game",
+    "Smoky, juicy, that's the game"
+   ],
+   "spread": 0.03,
+   "unsupported": null,
+   "wt": [
+    62.092,
+    62.508,
+    63.064,
+    63.303,
+    63.46
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-05",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Koo-bi-deh! Koo-bi-deh!",
+   "words": [
+    "Koo-bi-deh!",
+    "Koo-bi-deh!"
+   ],
+   "coverage": [
+    0.56,
+    0.56,
+    0.0
+   ],
+   "runs_used": [
+    1,
+    2
+   ],
+   "heard": [
+    "Kubi de, Kubi de",
+    "Kubi de, Kubi de,"
+   ],
+   "spread": 0.0,
+   "unsupported": [
+    1,
+    0.006
+   ],
+   "wt": [
+    64.821,
+    65.696
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-06",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Turn it fast, don’t let it fall away!",
+   "words": [
+    "Turn",
+    "it",
+    "fast,",
+    "don’t",
+    "let",
+    "it",
+    "fall",
+    "away!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Turn it fast, don't let it fall away",
+    "turn it fast Don't let it fall away",
+    "turn it fast, don't let it fall away"
+   ],
+   "spread": 0.09,
+   "unsupported": null,
+   "wt": [
+    66.08,
+    66.25,
+    66.37,
+    66.672,
+    66.937,
+    67.165,
+    67.347,
+    67.725
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-07",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Rice and butter, sumac too,",
+   "words": [
+    "Rice",
+    "and",
+    "butter,",
+    "sumac",
+    "too,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Rice and butter, sumac too",
+    "Rice and butter, sumac too",
+    "Rice and butter, sumac too,"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    68.34,
+    68.697,
+    69.102,
+    69.666,
+    70.163
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-08",
+   "section": "ch",
+   "section_name": "Chorus – Catchy, Upbeat",
+   "kind": "hot",
+   "text": "Persian barbecue is waiting for you!",
+   "words": [
+    "Persian",
+    "barbecue",
+    "is",
+    "waiting",
+    "for",
+    "you!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.8
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian barbecue is waiting for you",
+    "Persian barbecue is waiting for you",
+    "virgin barbecue is waiting for you"
+   ],
+   "spread": 0.19,
+   "unsupported": null,
+   "wt": [
+    70.924,
+    71.251,
+    71.875,
+    72.393,
+    73.15,
+    73.607
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-01",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Wet your hands, now grab a ball,",
+   "words": [
+    "Wet",
+    "your",
+    "hands,",
+    "now",
+    "grab",
+    "a",
+    "ball,"
+   ],
+   "coverage": [
+    0.92,
+    0.92,
+    0.92
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Watch your hands now grab a ball",
+    "Watch your hands now grab a ball",
+    "Watch your hands now grab a ball,"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    77.014,
+    77.337,
+    77.482,
+    77.72,
+    77.938,
+    78.33,
+    78.507
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-02",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Press it gently, spread it tall.",
+   "words": [
+    "Press",
+    "it",
+    "gently,",
+    "spread",
+    "it",
+    "tall."
+   ],
+   "coverage": [
+    0.84,
+    0.84,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Presidentally spread it tall",
+    "Presidentally spread it tall",
+    "press it gently, spread it tall"
+   ],
+   "spread": 0.32,
+   "unsupported": null,
+   "wt": [
+    79.553,
+    79.585,
+    79.72,
+    79.922,
+    80.435,
+    80.655
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-03",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Place the meat on a flat metal skewer,",
+   "words": [
+    "Place",
+    "the",
+    "meat",
+    "on",
+    "a",
+    "flat",
+    "metal",
+    "skewer,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Place the meat on a flat metal skewer,",
+    "Place the meat on a flat metal skewer",
+    "Place the meat on a flat metal skewer,"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    81.372,
+    81.697,
+    81.91,
+    82.175,
+    82.4,
+    82.477,
+    82.634,
+    82.978
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-04",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Shape it evenly, make it smoother.",
+   "words": [
+    "Shape",
+    "it",
+    "evenly,",
+    "make",
+    "it",
+    "smoother."
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "shape it evenly, make it smoother",
+    "Shape it evenly, make it smoother",
+    "shape it evenly, make it smoother"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    83.612,
+    83.97,
+    84.195,
+    84.557,
+    84.865,
+    85.035
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-05",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Pinch the ridges with your thumb,",
+   "words": [
+    "Pinch",
+    "the",
+    "ridges",
+    "with",
+    "your",
+    "thumb,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Pinch the ridges with your thumb,",
+    "Pinch the ridges with your thumb",
+    "Pinch the ridges with your thumb,"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    85.854,
+    86.197,
+    86.413,
+    86.812,
+    87.073,
+    87.348
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-06",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Make those classic grooves become!",
+   "words": [
+    "Make",
+    "those",
+    "classic",
+    "grooves",
+    "become!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.79
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "make those classic grooves become",
+    "Make those classic grooves become",
+    "make those classic brews become"
+   ],
+   "spread": 0.14,
+   "unsupported": null,
+   "wt": [
+    88.005,
+    88.206,
+    88.473,
+    88.947,
+    89.34
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-07",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Seal the edges, hold it tight,",
+   "words": [
+    "Seal",
+    "the",
+    "edges,",
+    "hold",
+    "it",
+    "tight,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Seal the edges, hold it tight,",
+    "Seal the edges, hold it tight",
+    "Seal the edges, hold it tight"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    90.3,
+    90.62,
+    90.86,
+    91.385,
+    91.595,
+    91.748
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-08",
+   "section": "vb",
+   "section_name": "Verse 2 – Shaping the Skewers",
+   "kind": "mid",
+   "text": "Keep that meat upon the skewer right!",
+   "words": [
+    "Keep",
+    "that",
+    "meat",
+    "upon",
+    "the",
+    "skewer",
+    "right!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "keep that meat upon the skewer right",
+    "Keep that meat up on the skewer right",
+    "Keep that meat up on the skewer right"
+   ],
+   "spread": 0.14,
+   "unsupported": null,
+   "wt": [
+    92.34,
+    92.637,
+    92.93,
+    93.18,
+    93.457,
+    93.562,
+    93.848
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-01",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "Get your charcoal glowing red,",
+   "words": [
+    "Get",
+    "your",
+    "charcoal",
+    "glowing",
+    "red,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.88
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Gotta get your charcoal glowing red,",
+    "Gotta get your charcoal glowing red",
+    "Gotta get your charcoal going red"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    95.092,
+    95.638,
+    95.778,
+    96.084,
+    96.73
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-02",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "No big flames beneath the bread!",
+   "words": [
+    "No",
+    "big",
+    "flames",
+    "beneath",
+    "the",
+    "bread!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "no big flames beneath the bread",
+    "No big flames beneath the bread",
+    "No big flames beneath the bread"
+   ],
+   "spread": 0.08,
+   "unsupported": null,
+   "wt": [
+    97.24,
+    97.527,
+    97.805,
+    98.323,
+    98.68,
+    99.014
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-03",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "Place the skewers, side by side,",
+   "words": [
+    "Place",
+    "the",
+    "skewers,",
+    "side",
+    "by",
+    "side,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Place the skewers side by side,",
+    "Place the skewers side by side",
+    "Place the skewers side by side"
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    99.492,
+    99.837,
+    100.127,
+    100.545,
+    101.05,
+    101.26
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-04",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "Turn them quickly, don’t let them slide.",
+   "words": [
+    "Turn",
+    "them",
+    "quickly,",
+    "don’t",
+    "let",
+    "them",
+    "slide."
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "turn them quickly, don't let them slide",
+    "Turn them quickly, don't let them slide",
+    "Turn them quickly, don't let them slide"
+   ],
+   "spread": 0.09,
+   "unsupported": null,
+   "wt": [
+    101.82,
+    102.132,
+    102.377,
+    102.728,
+    102.957,
+    103.165,
+    103.388
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-05",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "Flip them often at the start,",
+   "words": [
+    "Flip",
+    "them",
+    "often",
+    "at",
+    "the",
+    "start,"
+   ],
+   "coverage": [
+    0.87,
+    0.87,
+    0.87
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Flip them off and at the start,",
+    "Flip them off and at the start",
+    "Flip them off and at the start"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    103.94,
+    104.265,
+    104.647,
+    105.185,
+    105.35,
+    105.55
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-06",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "That’s the secret, that’s the art!",
+   "words": [
+    "That’s",
+    "the",
+    "secret,",
+    "that’s",
+    "the",
+    "art!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "that's the secret, that's the art",
+    "That's the secret, that's the art",
+    "That's the secret, that's the art"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    106.352,
+    106.66,
+    106.792,
+    107.434,
+    107.763,
+    107.943
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-07",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "Cook till golden, juicy inside,",
+   "words": [
+    "Cook",
+    "till",
+    "golden,",
+    "juicy",
+    "inside,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Cook till golden, juicy inside,",
+    "Cook till golden juicy inside",
+    "Cook till golden juicy inside"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    108.42,
+    108.737,
+    109.038,
+    109.514,
+    109.872
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-08",
+   "section": "vbb",
+   "section_name": "Verse 3 – Fire and Grill",
+   "kind": "mid",
+   "text": "No raw meat left when it’s time to dine!",
+   "words": [
+    "No",
+    "raw",
+    "meat",
+    "left",
+    "when",
+    "it’s",
+    "time",
+    "to",
+    "dine!"
+   ],
+   "coverage": [
+    0.97,
+    0.97,
+    0.97
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "no raw meat left, when it's time to die",
+    "No raw meat left when it's time to die",
+    "No raw meat left when it's time to die"
+   ],
+   "spread": 0.08,
+   "unsupported": null,
+   "wt": [
+    110.505,
+    110.74,
+    110.97,
+    111.218,
+    111.513,
+    111.767,
+    111.925,
+    112.155,
+    112.427
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-01",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Grilled tomatoes, charred and sweet,",
+   "words": [
+    "Grilled",
+    "tomatoes,",
+    "charred",
+    "and",
+    "sweet,"
+   ],
+   "coverage": [
+    1.0,
+    0.93,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Grilled tomatoes, charred and sweet,",
+    "Grill tomatoes, charred and sweet",
+    "Grilled tomatoes, charred and sweet"
+   ],
+   "spread": 0.11,
+   "unsupported": null,
+   "wt": [
+    115.703,
+    116.031,
+    116.849,
+    117.24,
+    117.378
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-02",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Fresh herbs make the perfect treat.",
+   "words": [
+    "Fresh",
+    "herbs",
+    "make",
+    "the",
+    "perfect",
+    "treat."
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "fresh herbs make the perfect treat",
+    "Fresh herbs make the perfect treat",
+    "Fresh herbs make the perfect treat"
+   ],
+   "spread": 0.11,
+   "unsupported": null,
+   "wt": [
+    117.912,
+    118.242,
+    118.653,
+    118.917,
+    119.126,
+    119.51
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-03",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Saffron rice in golden light,",
+   "words": [
+    "Saffron",
+    "rice",
+    "in",
+    "golden",
+    "light,"
+   ],
+   "coverage": [
+    0.92,
+    0.92,
+    0.92
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Saffron, rice, and golden light,",
+    "Saffron, rice and golden light",
+    "Saffron, rice and golden light"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    120.344,
+    120.695,
+    null,
+    121.292,
+    121.72
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-04",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Butter melting — what a sight!",
+   "words": [
+    "Butter",
+    "melting",
+    "what",
+    "a",
+    "sight!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "butter melting What a sight!",
+    "Butter melting, what a sight",
+    "Butter melting, what a sight"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    122.368,
+    122.72,
+    123.305,
+    123.84,
+    123.982
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-05",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Sprinkle sumac, squeeze some lime,",
+   "words": [
+    "Sprinkle",
+    "sumac,",
+    "squeeze",
+    "some",
+    "lime,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Sprinkle sumac, squeeze some lime,",
+    "Sprinkle sumac, squeeze some lime",
+    "Sprinkle sumac, squeeze some lime"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    124.62,
+    124.982,
+    125.731,
+    125.922,
+    126.258
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-06",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Gather ‘round, it’s dinner time!",
+   "words": [
+    "Gather",
+    "‘round,",
+    "it’s",
+    "dinner",
+    "time!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "gather round, it's dinner time",
+    "Gather round, it's dinner time",
+    "Gather round it's dinner time"
+   ],
+   "spread": 0.09,
+   "unsupported": null,
+   "wt": [
+    126.767,
+    127.124,
+    127.77,
+    128.035,
+    128.257
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-07",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "From Tehran streets to lands afar,",
+   "words": [
+    "From",
+    "Tehran",
+    "streets",
+    "to",
+    "lands",
+    "afar,"
+   ],
+   "coverage": [
+    0.86,
+    0.93,
+    0.93
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "From Tehran streets to Lanza Forge",
+    "From Tehran Streets to Lanza Far,",
+    "From Tehran streets to Lanza Far"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    128.697,
+    129.007,
+    129.521,
+    129.88,
+    130.168,
+    130.552
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-08",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Persian Koobideh’s the barbecue star!",
+   "words": [
+    "Persian",
+    "Koobideh’s",
+    "the",
+    "barbecue",
+    "star!"
+   ],
+   "coverage": [
+    0.9,
+    0.9,
+    0.87
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian koubide, the barbecue star",
+    "Persian Kubiede's the barbecue star",
+    "Persian kubi de the barbecue star"
+   ],
+   "spread": 0.12,
+   "unsupported": null,
+   "wt": [
+    131.443,
+    131.793,
+    132.36,
+    132.476,
+    132.8
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-01",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Koo-bi-deh! Koo-bi-deh!",
+   "words": [
+    "Koo-bi-deh!",
+    "Koo-bi-deh!"
+   ],
+   "coverage": [
+    0.75,
+    0.56,
+    0.56
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Koubide, koubide",
+    "Kubiede, Kubiede",
+    "Kubi de, kubi de"
+   ],
+   "spread": 0.18,
+   "unsupported": null,
+   "wt": [
+    136.023,
+    136.73
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-02",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Made with love the Persian way!",
+   "words": [
+    "Made",
+    "with",
+    "love",
+    "the",
+    "Persian",
+    "way!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Made with love, the Persian way",
+    "Made with love, the Persian way,",
+    "Made with love the Persian way"
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    137.24,
+    137.565,
+    137.917,
+    138.3,
+    138.436,
+    138.967
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-03",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Onions, meat, and charcoal heat,",
+   "words": [
+    "Onions,",
+    "meat,",
+    "and",
+    "charcoal",
+    "heat,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Onions, meat and charcoal, heat",
+    "onions, meat and charcoal, heat",
+    "Onions, meat and charcoal heat"
+   ],
+   "spread": 0.08,
+   "unsupported": null,
+   "wt": [
+    139.727,
+    140.19,
+    140.443,
+    140.683,
+    141.31
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-04",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Nothing beats this smoky treat!",
+   "words": [
+    "Nothing",
+    "beats",
+    "this",
+    "smoky",
+    "treat!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Nothing beats this smoky treat",
+    "Nothing beats this smoky treat,",
+    "Nothing beats this smoky treat"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    141.763,
+    142.102,
+    142.525,
+    142.898,
+    143.446
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-05",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Koo-bi-deh! Koo-bi-deh!",
+   "words": [
+    "Koo-bi-deh!",
+    "Koo-bi-deh!"
+   ],
+   "coverage": [
+    0.38,
+    0.5,
+    0.5
+   ],
+   "runs_used": [
+    2,
+    3
+   ],
+   "heard": [
+    "Kubiede, Kubiede",
+    "kubi de, kubi de"
+   ],
+   "spread": 0.16,
+   "unsupported": [
+    0,
+    0.08
+   ],
+   "wt": [
+    145.041,
+    145.644
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-06",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Bring the family, shout hooray!",
+   "words": [
+    "Bring",
+    "the",
+    "family,",
+    "shout",
+    "hooray!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Bring the family, shout hooray",
+    "Bring the family, shout hooray!",
+    "Bring the family, shout hooray!"
+   ],
+   "spread": 0.03,
+   "unsupported": null,
+   "wt": [
+    145.958,
+    146.147,
+    146.315,
+    147.21,
+    147.552
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-07",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Saffron rice and kebabs divine,",
+   "words": [
+    "Saffron",
+    "rice",
+    "and",
+    "kebabs",
+    "divine,"
+   ],
+   "coverage": [
+    1.0,
+    0.88,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Saffron, rice and kebabs, divine",
+    "Saffron rice in kebabs divine,",
+    "Saffron, rice and kebabs, divine"
+   ],
+   "spread": 0.04,
+   "unsupported": [
+    2,
+    0.008
+   ],
+   "wt": [
+    148.644,
+    149.05,
+    149.295,
+    149.548,
+    149.962
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-08",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "mid",
+   "text": "Persian flavor, every time!",
+   "words": [
+    "Persian",
+    "flavor,",
+    "every",
+    "time!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian flavor, every time",
+    "Persian flavor, every time",
+    "Persian flavor Every time"
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    150.803,
+    151.145,
+    152.416,
+    153.35
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "sp-01",
+   "section": "sp",
+   "section_name": "Outro – Spoken",
+   "kind": "calm",
+   "text": "Remember the rule, now here’s the key:",
+   "words": [
+    "Remember",
+    "the",
+    "rule,",
+    "now",
+    "here’s",
+    "the",
+    "key:"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Remember the rule, now here's the key",
+    "Remember the rule, now here's the key",
+    "Remember the rule, now here's the key"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    155.48,
+    155.837,
+    156.155,
+    156.577,
+    156.792,
+    157.097,
+    157.223
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "sp-02",
+   "section": "sp",
+   "section_name": "Outro – Spoken",
+   "kind": "calm",
+   "text": "Squeeze those onions, knead carefully!",
+   "words": [
+    "Squeeze",
+    "those",
+    "onions,",
+    "knead",
+    "carefully!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Squeeze those onions, knead carefully",
+    "Squeeze those onions. Knead carefully.",
+    "Squeeze those onions, knead carefully"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    158.183,
+    158.52,
+    158.922,
+    159.614,
+    160.159
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "sp-03",
+   "section": "sp",
+   "section_name": "Outro – Spoken",
+   "kind": "calm",
+   "text": "Keep turning till the meat is done…",
+   "words": [
+    "Keep",
+    "turning",
+    "till",
+    "the",
+    "meat",
+    "is",
+    "done…"
+   ],
+   "coverage": [
+    1.0,
+    0.96,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Keep turning, till the meat is done",
+    "Keep turning until the meat is done.",
+    "Keep turning till the meat is done"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    161.98,
+    162.289,
+    162.94,
+    163.247,
+    163.412,
+    163.69,
+    163.887
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "sp-04",
+   "section": "sp",
+   "section_name": "Outro – Spoken",
+   "kind": "calm",
+   "text": "Persian Koobideh — now that’s fun!",
+   "words": [
+    "Persian",
+    "Koobideh",
+    "now",
+    "that’s",
+    "fun!"
+   ],
+   "coverage": [
+    0.85,
+    0.85,
+    0.85
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian Kubida, now that's fun.",
+    "Persian Kubida. Now that's fun.",
+    "Persian Kubida Now that's fun"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    165.804,
+    166.168,
+    167.697,
+    168.446,
+    168.937
+   ],
+   "source": "asr"
+  }
+ ]
+}

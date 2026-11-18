@@ -1,0 +1,2613 @@
+{
+ "lines": [
+  {
+   "id": "in-01",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Hey, everybody!",
+   "words": [
+    "Hey,",
+    "everybody!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Hey everybody",
+    "Hey everybody",
+    "Hey everybody"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    0.92,
+    1.253
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-02",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Forget the burgers, forget the fries!",
+   "words": [
+    "Forget",
+    "the",
+    "burgers,",
+    "forget",
+    "the",
+    "fries!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "forget the burgers forget the fries",
+    "forget the burgers forget the fries",
+    "forget the burgers forget the fries"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    2.63,
+    3.0,
+    3.223,
+    3.555,
+    3.977,
+    4.2
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-03",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Tonight we’re making Persian chicken paradise!",
+   "words": [
+    "Tonight",
+    "we’re",
+    "making",
+    "Persian",
+    "chicken",
+    "paradise!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "tonight we're making Persian chicken paradise",
+    "tonight we're making Persian chicken paradise",
+    "tonight we're making Persian chicken paradise"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    5.206,
+    5.575,
+    5.842,
+    6.11,
+    6.531,
+    6.981
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-04",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Get your saffron, grab your skewers…",
+   "words": [
+    "Get",
+    "your",
+    "saffron,",
+    "grab",
+    "your",
+    "skewers…"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "get your saffron grab your skewers",
+    "get your saffron grab your skewers",
+    "get your saffron grab your skewers"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    8.68,
+    9.01,
+    9.264,
+    9.912,
+    10.453,
+    10.726
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "in-05",
+   "section": "in",
+   "section_name": "Intro – Spoken, Playful Male Voice",
+   "kind": "calm",
+   "text": "Let’s make some Joojeh Kebab!",
+   "words": [
+    "Let’s",
+    "make",
+    "some",
+    "Joojeh",
+    "Kebab!"
+   ],
+   "coverage": [
+    0.78,
+    0.87,
+    0.78
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "let's make some jujube kebab",
+    "let's make some jujee kebab",
+    "let's make some jiu -jitsu kebab."
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    12.725,
+    13.062,
+    13.26,
+    13.608,
+    14.28
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-01",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Two pounds of chicken, cut into squares,",
+   "words": [
+    "Two",
+    "pounds",
+    "of",
+    "chicken,",
+    "cut",
+    "into",
+    "squares,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "two pounds of chicken cut into squares",
+    "two pounds of chicken cut into squares",
+    "Two pounds of chicken cut into squares."
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    16.18,
+    16.51,
+    16.895,
+    17.084,
+    17.63,
+    18.818,
+    19.126
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-02",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Boneless thighs or breasts, nobody cares!",
+   "words": [
+    "Boneless",
+    "thighs",
+    "or",
+    "breasts,",
+    "nobody",
+    "cares!"
+   ],
+   "coverage": [
+    0.85,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "boneless thighs or breasts nobody",
+    "boneless thighs or breasts nobody cares",
+    "Boneless thighs or breasts nobody cares."
+   ],
+   "spread": 0.0,
+   "unsupported": [
+    5,
+    0.026
+   ],
+   "wt": [
+    21.543,
+    21.918,
+    22.41,
+    22.649,
+    23.047,
+    23.604
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-03",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Two onions sliced, let the flavor flow,",
+   "words": [
+    "Two",
+    "onions",
+    "sliced,",
+    "let",
+    "the",
+    "flavor",
+    "flow,"
+   ],
+   "coverage": [
+    0.87,
+    0.9,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "To onion slice, let the flavor flow",
+    "to onion slice let the flavor flow",
+    "Two onions sliced. Let the flavor flow."
+   ],
+   "spread": 0.15,
+   "unsupported": null,
+   "wt": [
+    25.25,
+    25.55,
+    26.018,
+    26.897,
+    27.713,
+    27.908,
+    28.295
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-04",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Add some yogurt if you like it slow.",
+   "words": [
+    "Add",
+    "some",
+    "yogurt",
+    "if",
+    "you",
+    "like",
+    "it",
+    "slow."
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Add some yogurt, if you like it slow",
+    "add some yogurt if you like it slow",
+    "Add some yogurt. If you like it slow."
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    29.9,
+    30.242,
+    30.612,
+    31.95,
+    32.357,
+    32.462,
+    32.655,
+    32.802
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-05",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Fresh lemon juice, a little lime,",
+   "words": [
+    "Fresh",
+    "lemon",
+    "juice,",
+    "a",
+    "little",
+    "lime,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Fresh lemon juice, a little lime",
+    "fresh lemon juice a little lime",
+    "Fresh lemon juice, a little lime."
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    34.296,
+    34.65,
+    34.966,
+    35.83,
+    35.915,
+    36.152
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-06",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Olive oil to make it shine!",
+   "words": [
+    "Olive",
+    "oil",
+    "to",
+    "make",
+    "it",
+    "shine!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Olive oil to make it shine",
+    "olive oil to make it shine",
+    "Olive oil to make it shine."
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    36.956,
+    37.347,
+    37.745,
+    37.965,
+    38.21,
+    38.456
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-07",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Salt and pepper, just a pinch,",
+   "words": [
+    "Salt",
+    "and",
+    "pepper,",
+    "just",
+    "a",
+    "pinch,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Salt and pepper, just a pinch",
+    "salt and pepper just a pinch",
+    "Salt and pepper just a pinch"
+   ],
+   "spread": 0.18,
+   "unsupported": null,
+   "wt": [
+    39.125,
+    39.49,
+    39.765,
+    40.105,
+    40.69,
+    40.83
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "v-08",
+   "section": "v",
+   "section_name": "Verse 1 – The Ingredients",
+   "kind": "mid",
+   "text": "Turmeric too, for a golden finish!",
+   "words": [
+    "Turmeric",
+    "too,",
+    "for",
+    "a",
+    "golden",
+    "finish!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Turmeric too, for a golden finish",
+    "turmeric too for a golden finish",
+    "turmeric too for a golden finish"
+   ],
+   "spread": 0.08,
+   "unsupported": null,
+   "wt": [
+    41.322,
+    41.737,
+    42.19,
+    42.61,
+    42.705,
+    43.025
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-01",
+   "section": "pc",
+   "section_name": "Pre-Chorus – The Secret",
+   "kind": "mid",
+   "text": "But wait a minute, here’s the key,",
+   "words": [
+    "But",
+    "wait",
+    "a",
+    "minute,",
+    "here’s",
+    "the",
+    "key,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "But wait a minute, here's the key",
+    "but wait a minute Here's the key,",
+    "but wait a minute here's the key"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    43.92,
+    44.26,
+    44.68,
+    44.822,
+    45.13,
+    45.783,
+    45.937
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-02",
+   "section": "pc",
+   "section_name": "Pre-Chorus – The Secret",
+   "kind": "mid",
+   "text": "Saffron water, strong and free!",
+   "words": [
+    "Saffron",
+    "water,",
+    "strong",
+    "and",
+    "free!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Saffron water, strong and free",
+    "saffron, water, strong and free",
+    "saffron water strong and free"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    46.706,
+    47.072,
+    47.548,
+    47.91,
+    48.1
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-03",
+   "section": "pc",
+   "section_name": "Pre-Chorus – The Secret",
+   "kind": "mid",
+   "text": "Crush those threads, add water hot,",
+   "words": [
+    "Crush",
+    "those",
+    "threads,",
+    "add",
+    "water",
+    "hot,"
+   ],
+   "coverage": [
+    0.93,
+    0.93,
+    0.93
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Crush those threads at water hot",
+    "Crush those threads at water hot",
+    "crush those threads at water hot"
+   ],
+   "spread": 0.08,
+   "unsupported": null,
+   "wt": [
+    48.676,
+    49.03,
+    49.323,
+    49.695,
+    49.946,
+    50.277
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "pc-04",
+   "section": "pc",
+   "section_name": "Pre-Chorus – The Secret",
+   "kind": "mid",
+   "text": "That’s the magic, that’s the spot!",
+   "words": [
+    "That’s",
+    "the",
+    "magic,",
+    "that’s",
+    "the",
+    "spot!"
+   ],
+   "coverage": [
+    0.92,
+    0.92,
+    0.92
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "That's the magic, that's the spy",
+    "That's the magic, that's the spy",
+    "that's the magic that's the spy"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    51.076,
+    51.42,
+    51.568,
+    52.162,
+    52.563,
+    52.757
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-01",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Joo-jeh! Joo-jeh!",
+   "words": [
+    "Joo-jeh!",
+    "Joo-jeh!"
+   ],
+   "coverage": [
+    0.67,
+    0.33,
+    0.33
+   ],
+   "runs_used": [
+    1
+   ],
+   "heard": [
+    "Choo -jee, choo -jee,"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    53.505,
+    54.252
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-02",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Golden chicken, come my way!",
+   "words": [
+    "Golden",
+    "chicken,",
+    "come",
+    "my",
+    "way!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "golden chicken come my way",
+    "golden chicken come my way",
+    "golden chicken come my way"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    55.13,
+    55.489,
+    55.913,
+    56.365,
+    56.697
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-03",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Saffron shining, lemon bright,",
+   "words": [
+    "Saffron",
+    "shining,",
+    "lemon",
+    "bright,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.88
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "saffron shining lemon bright",
+    "Saffron shining lemon bright,",
+    "saffron shiny lemon bright"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    57.446,
+    57.814,
+    58.306,
+    58.762
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-04",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Persian chicken done just right!",
+   "words": [
+    "Persian",
+    "chicken",
+    "done",
+    "just",
+    "right!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian chicken done just right",
+    "Persian chicken done just right",
+    "Persian chicken done just right"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    59.666,
+    60.029,
+    60.453,
+    60.852,
+    61.18
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-05",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Joo-jeh! Joo-jeh!",
+   "words": [
+    "Joo-jeh!",
+    "Joo-jeh!"
+   ],
+   "coverage": [
+    0.67,
+    0.42,
+    0.42
+   ],
+   "runs_used": [
+    1
+   ],
+   "heard": [
+    "Choo -jee, choo -jee,"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    62.585,
+    63.347
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-06",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Let it marinate away!",
+   "words": [
+    "Let",
+    "it",
+    "marinate",
+    "away!"
+   ],
+   "coverage": [
+    1.0,
+    0.94,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "let it marinate away",
+    "let it marinate way",
+    "let it marinate away"
+   ],
+   "spread": 0.1,
+   "unsupported": null,
+   "wt": [
+    64.02,
+    64.36,
+    64.528,
+    65.335
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-07",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "On the fire, smell that heat,",
+   "words": [
+    "On",
+    "the",
+    "fire,",
+    "smell",
+    "that",
+    "heat,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "On the fire smell that heat",
+    "On the fire, smell that heat",
+    "on the fire smell that heat"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    66.27,
+    66.567,
+    66.76,
+    67.26,
+    67.657,
+    67.963
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ch-08",
+   "section": "ch",
+   "section_name": "Chorus – Catchy & Energetic",
+   "kind": "hot",
+   "text": "Nothing beats this juicy treat!",
+   "words": [
+    "Nothing",
+    "beats",
+    "this",
+    "juicy",
+    "treat!"
+   ],
+   "coverage": [
+    1.0,
+    0.92,
+    0.62
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Nothing beats this juicy treat",
+    "Nothing beats this juicytree",
+    "nothing beats this"
+   ],
+   "spread": 0.06,
+   "unsupported": [
+    4,
+    0.006
+   ],
+   "wt": [
+    68.526,
+    68.908,
+    69.385,
+    69.741,
+    70.158
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-01",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Mix it up and coat each piece,",
+   "words": [
+    "Mix",
+    "it",
+    "up",
+    "and",
+    "coat",
+    "each",
+    "piece,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Mix it up and coat each piece",
+    "Mix it up and coat each piece",
+    "Mix it up and coat each piece"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    71.62,
+    71.965,
+    72.16,
+    72.377,
+    72.588,
+    72.805,
+    73.018
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-02",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Let the flavors have their peace!",
+   "words": [
+    "Let",
+    "the",
+    "flavors",
+    "have",
+    "their",
+    "peace!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Let the flavors have their peace",
+    "Let the flavors have their peace,",
+    "Let the flavors have their peace"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    73.84,
+    74.163,
+    74.31,
+    74.745,
+    75.078,
+    75.286
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-03",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Cover tight and chill all night,",
+   "words": [
+    "Cover",
+    "tight",
+    "and",
+    "chill",
+    "all",
+    "night,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Cover tight and chill all night",
+    "cover tight and chill all night",
+    "Cover tight and chill all night"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    76.156,
+    76.508,
+    76.81,
+    77.086,
+    77.357,
+    77.572
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-04",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Four hours minimum works just right.",
+   "words": [
+    "Four",
+    "hours",
+    "minimum",
+    "works",
+    "just",
+    "right."
+   ],
+   "coverage": [
+    1.0,
+    0.97,
+    0.97
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Four hours minimum works just right",
+    "For hours minimum works just right,",
+    "For hours minimum works just right"
+   ],
+   "spread": 0.01,
+   "unsupported": null,
+   "wt": [
+    77.913,
+    78.226,
+    78.67,
+    79.15,
+    79.632,
+    79.892
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-05",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Don’t rush the chicken, let it rest,",
+   "words": [
+    "Don’t",
+    "rush",
+    "the",
+    "chicken,",
+    "let",
+    "it",
+    "rest,"
+   ],
+   "coverage": [
+    0.96,
+    1.0,
+    0.96
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Don't rust the chicken, let it rest",
+    "don't rush the chicken, let it rest",
+    "Don't rust the chicken, let it rest"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    80.218,
+    80.517,
+    80.797,
+    81.006,
+    81.593,
+    81.89,
+    82.032
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-06",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "That’s how you make the very best!",
+   "words": [
+    "That’s",
+    "how",
+    "you",
+    "make",
+    "the",
+    "very",
+    "best!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "That's how you make the very best",
+    "That's how you make the very best",
+    "That's how you make the very best"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    82.456,
+    82.823,
+    83.067,
+    83.24,
+    83.57,
+    83.87,
+    84.265
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-07",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Before the grill, shake off the sauce,",
+   "words": [
+    "Before",
+    "the",
+    "grill,",
+    "shake",
+    "off",
+    "the",
+    "sauce,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "before the grill Shake off the sauce,",
+    "before the grill, shake off the sauce",
+    "before the grill Shake off the sauce,"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    84.607,
+    84.927,
+    85.1,
+    85.52,
+    86.113,
+    86.417,
+    86.63
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vb-08",
+   "section": "vb",
+   "section_name": "Verse 2 – Marinating",
+   "kind": "mid",
+   "text": "Too much marinade can cause a loss!",
+   "words": [
+    "Too",
+    "much",
+    "marinade",
+    "can",
+    "cause",
+    "a",
+    "loss!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "too much marinade can cause a loss",
+    "Too much marinade can cause a loss",
+    "too much marinade can cause a loss"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    86.95,
+    87.233,
+    87.491,
+    88.027,
+    88.396,
+    88.85,
+    89.035
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-01",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Take your skewers, slide them through,",
+   "words": [
+    "Take",
+    "your",
+    "skewers,",
+    "slide",
+    "them",
+    "through,"
+   ],
+   "coverage": [
+    0.97,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Take your skewer, slide them through",
+    "Take your skewers, slide them through,",
+    "Take your skewers, slide them through"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    89.465,
+    89.812,
+    90.066,
+    90.602,
+    90.832,
+    91.083
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-02",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Leave a little space between each cube!",
+   "words": [
+    "Leave",
+    "a",
+    "little",
+    "space",
+    "between",
+    "each",
+    "cube!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Leave a little space between each cube",
+    "leave a little space between each cube",
+    "Leave a little space between each cube"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    91.676,
+    92.08,
+    92.192,
+    92.348,
+    92.627,
+    93.012,
+    93.43
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-03",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Keep the pieces even in size,",
+   "words": [
+    "Keep",
+    "the",
+    "pieces",
+    "even",
+    "in",
+    "size,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Keep the pieces even in size",
+    "Keep the pieces even in size,",
+    "Keep the pieces even in size"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    93.985,
+    94.34,
+    94.57,
+    94.958,
+    95.42,
+    95.647
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-04",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "That’s how you get that perfect prize!",
+   "words": [
+    "That’s",
+    "how",
+    "you",
+    "get",
+    "that",
+    "perfect",
+    "prize!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "That's how you get that perfect prize",
+    "that's how you get that perfect prize",
+    "That's how you get that perfect prize"
+   ],
+   "spread": 0.11,
+   "unsupported": null,
+   "wt": [
+    96.076,
+    96.433,
+    96.64,
+    96.893,
+    97.175,
+    97.446,
+    97.836
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-05",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Charcoal glowing, flames are low,",
+   "words": [
+    "Charcoal",
+    "glowing,",
+    "flames",
+    "are",
+    "low,"
+   ],
+   "coverage": [
+    0.74,
+    0.81,
+    0.81
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Chocobloin flames are low",
+    "Chocolate blowing flames are low",
+    "Choco glowin' flames are low"
+   ],
+   "spread": 0.6,
+   "unsupported": null,
+   "wt": [
+    98.656,
+    99.04,
+    99.545,
+    99.887,
+    100.18
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-06",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Place the chicken, let it go!",
+   "words": [
+    "Place",
+    "the",
+    "chicken,",
+    "let",
+    "it",
+    "go!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Place the chicken, let it go",
+    "Place the chicken, let it go",
+    "Place the chicken, let it go"
+   ],
+   "spread": 0.04,
+   "unsupported": null,
+   "wt": [
+    100.756,
+    101.127,
+    101.363,
+    102.037,
+    102.26,
+    102.46
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-07",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Turn it often, nice and slow,",
+   "words": [
+    "Turn",
+    "it",
+    "often,",
+    "nice",
+    "and",
+    "slow,"
+   ],
+   "coverage": [
+    0.86,
+    0.95,
+    0.95
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Turn it off nice and slow",
+    "Turn it off then nice and slow",
+    "Turn it off then nice and slow"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    103.105,
+    103.475,
+    103.69,
+    104.237,
+    104.54,
+    104.787
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-08",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Golden edges start to show!",
+   "words": [
+    "Golden",
+    "edges",
+    "start",
+    "to",
+    "show!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Golden edges, start to show",
+    "Golden edges, start to show",
+    "Golden edges, start to show"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    105.47,
+    105.838,
+    106.578,
+    106.795,
+    107.007
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-09",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Brush with butter, saffron too,",
+   "words": [
+    "Brush",
+    "with",
+    "butter,",
+    "saffron",
+    "too,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.96
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Brush with butter, saffron too",
+    "Brush with butter, saffron, too",
+    "Brush with butter, saffron Two"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    107.516,
+    107.885,
+    108.223,
+    108.717,
+    109.267
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-10",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Lemon butter coming through!",
+   "words": [
+    "Lemon",
+    "butter",
+    "coming",
+    "through!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.96
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Lemon butter, coming through",
+    "Lemon butter, coming through",
+    "lemon butter, comin' through"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    109.856,
+    110.227,
+    111.048,
+    111.346
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-11",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Cook it fully, don’t guess the time,",
+   "words": [
+    "Cook",
+    "it",
+    "fully,",
+    "don’t",
+    "guess",
+    "the",
+    "time,"
+   ],
+   "coverage": [
+    0.96,
+    1.0,
+    0.96
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Cookin' fully, don't guess the time,",
+    "Cook it fully, don't guess the time",
+    "Cookin' fully, don't guess the time"
+   ],
+   "spread": 0.14,
+   "unsupported": null,
+   "wt": [
+    111.87,
+    112.11,
+    112.24,
+    112.517,
+    112.78,
+    112.997,
+    113.24
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "vbb-12",
+   "section": "vbb",
+   "section_name": "Verse 3 – Skewering & Grilling",
+   "kind": "mid",
+   "text": "Seventy-four degrees — that’s the line!",
+   "words": [
+    "Seventy-four",
+    "degrees",
+    "that’s",
+    "the",
+    "line!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "74 degrees That's the line,",
+    "74 degrees, that's the line",
+    "74 degrees, that's the line"
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    113.956,
+    114.359,
+    115.574,
+    115.9,
+    116.055
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-01",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Grilled tomatoes, side by side,",
+   "words": [
+    "Grilled",
+    "tomatoes,",
+    "side",
+    "by",
+    "side,"
+   ],
+   "coverage": [
+    1.0,
+    0.92,
+    0.92
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "grilled tomatoes side by side",
+    "Grilled tomato, side by side",
+    "Grilled tomato, side by side"
+   ],
+   "spread": 0.06,
+   "unsupported": null,
+   "wt": [
+    116.686,
+    117.057,
+    117.71,
+    118.13,
+    118.343
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-02",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Fresh green herbs and onions fried!",
+   "words": [
+    "Fresh",
+    "green",
+    "herbs",
+    "and",
+    "onions",
+    "fried!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Fresh green herbs and onions fried,",
+    "Fresh green herbs and onions fried",
+    "Fresh green herbs and onions fried"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    118.816,
+    119.17,
+    119.488,
+    119.96,
+    120.185,
+    120.512
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-03",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Saffron rice, a little butter,",
+   "words": [
+    "Saffron",
+    "rice,",
+    "a",
+    "little",
+    "butter,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "saffron rice A little butter,",
+    "Saffron rice, a little butter",
+    "Saffron rice, a little butter"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    121.326,
+    121.712,
+    122.33,
+    122.437,
+    122.655
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-04",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Persian flavors, nothing better!",
+   "words": [
+    "Persian",
+    "flavors,",
+    "nothing",
+    "better!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.96
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian flavors, nothing better",
+    "Persian flavors, nothing better",
+    "Persian flavors, nothin' better"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    123.506,
+    123.88,
+    124.519,
+    124.802
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-05",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Sumac sprinkled, lemon squeezed,",
+   "words": [
+    "Sumac",
+    "sprinkled,",
+    "lemon",
+    "squeezed,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Sumac, sprinkled lemon, squeezed,",
+    "Sumac, sprinkled lemon, squeezed,",
+    "Sumac, sprinkled lemon, squeezed,"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    125.776,
+    126.21,
+    126.756,
+    127.235
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-06",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Eat it hot, enjoy the feast!",
+   "words": [
+    "Eat",
+    "it",
+    "hot,",
+    "enjoy",
+    "the",
+    "feast!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "eat it hot Enjoy the feast",
+    "eat it hot Enjoy the feast",
+    "eat it hot Enjoy the feast"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    128.017,
+    128.23,
+    128.367,
+    128.664,
+    129.29,
+    129.564
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-07",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "From Persian kitchens to the world,",
+   "words": [
+    "From",
+    "Persian",
+    "kitchens",
+    "to",
+    "the",
+    "world,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "from Persian kitchens to the world",
+    "from Persian kitchens to the world",
+    "from Persian kitchens to the world"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    129.825,
+    130.173,
+    130.639,
+    131.3,
+    131.583,
+    131.844
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "br-08",
+   "section": "br",
+   "section_name": "Bridge – Persian Feast",
+   "kind": "calm",
+   "text": "Joojeh Kebab, the golden bird!",
+   "words": [
+    "Joojeh",
+    "Kebab,",
+    "the",
+    "golden",
+    "bird!"
+   ],
+   "coverage": [
+    0.88,
+    0.79,
+    0.79
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Juject kebab, the golden bird",
+    "Juja kebab, the golden bird",
+    "Juja kebab, the golden bird"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    132.485,
+    132.854,
+    133.503,
+    133.652,
+    134.085
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-01",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Joo-jeh! Joo-jeh!",
+   "words": [
+    "Joo-jeh!",
+    "Joo-jeh!"
+   ],
+   "coverage": [
+    0.42,
+    0.08,
+    0.08
+   ],
+   "runs_used": [
+    1
+   ],
+   "heard": [
+    "Juject, juject,"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    137.21,
+    137.858
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-02",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Golden chicken, hip hooray!",
+   "words": [
+    "Golden",
+    "chicken,",
+    "hip",
+    "hooray!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "golden chicken, hip hooray",
+    "golden chicken, hip hooray",
+    "golden chicken, hip hooray"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    138.71,
+    139.069,
+    139.77,
+    139.97
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-03",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Saffron, lemon, charcoal heat,",
+   "words": [
+    "Saffron,",
+    "lemon,",
+    "charcoal",
+    "heat,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Saffron, lemon, charcoal, heat",
+    "Saffron, lemon, charcoal, heat",
+    "Saffron, lemon, charcoal, heat"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    141.026,
+    141.45,
+    141.898,
+    142.515
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-04",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Persian cooking can’t be beat!",
+   "words": [
+    "Persian",
+    "cooking",
+    "can’t",
+    "be",
+    "beat!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Persian cooking can't be beat",
+    "Persian cooking, can't be beat",
+    "Persian cooking, can't be beat"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    143.186,
+    143.549,
+    144.303,
+    144.495,
+    144.657
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-05",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Joo-jeh! Joo-jeh!",
+   "words": [
+    "Joo-jeh!",
+    "Joo-jeh!"
+   ],
+   "coverage": [
+    0.42,
+    0.08,
+    0.08
+   ],
+   "runs_used": [
+    1
+   ],
+   "heard": [
+    "Juje, juje,"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    146.085,
+    146.91
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-06",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Bring your friends and come this way!",
+   "words": [
+    "Bring",
+    "your",
+    "friends",
+    "and",
+    "come",
+    "this",
+    "way!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "bring your friends and come this way",
+    "bring your friends and come this way",
+    "bring your friends and come this way"
+   ],
+   "spread": 0.07,
+   "unsupported": null,
+   "wt": [
+    147.328,
+    147.627,
+    147.996,
+    148.5,
+    148.73,
+    148.975,
+    149.29
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-07",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Rice and butter, herbs so green,",
+   "words": [
+    "Rice",
+    "and",
+    "butter,",
+    "herbs",
+    "so",
+    "green,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Rice and butter, herbs so green",
+    "Rice and butter, herbs so green",
+    "Rice and butter, herbs so green"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    149.682,
+    150.047,
+    150.403,
+    151.062,
+    151.31,
+    151.5
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "fin-08",
+   "section": "fin",
+   "section_name": "Final Chorus – Big Celebration",
+   "kind": "hot",
+   "text": "Best chicken you’ve ever seen!",
+   "words": [
+    "Best",
+    "chicken",
+    "you’ve",
+    "ever",
+    "seen!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    0.83
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Best chicken you've ever seen",
+    "best chicken you've ever seen",
+    "chicken you've ever seen."
+   ],
+   "spread": 0.41,
+   "unsupported": [
+    0,
+    0.01
+   ],
+   "wt": [
+    152.015,
+    152.36,
+    152.692,
+    153.36,
+    153.567
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ou-01",
+   "section": "ou",
+   "section_name": "Outro – Spoken, Funny",
+   "kind": "calm",
+   "text": "And remember, my friends…",
+   "words": [
+    "And",
+    "remember,",
+    "my",
+    "friends…"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "And remember, my friends",
+    "and remember my friends",
+    "And remember, my friends,"
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    155.24,
+    155.562,
+    156.425,
+    156.787
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ou-02",
+   "section": "ou",
+   "section_name": "Outro – Spoken, Funny",
+   "kind": "calm",
+   "text": "Saffron is gold, patience is key,",
+   "words": [
+    "Saffron",
+    "is",
+    "gold,",
+    "patience",
+    "is",
+    "key,"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "Saffron is gold, patience is key",
+    "saffron is gold patience is key",
+    "saffron is gold. Patience is key."
+   ],
+   "spread": 0.02,
+   "unsupported": null,
+   "wt": [
+    158.746,
+    159.135,
+    159.348,
+    159.92,
+    160.61,
+    160.943
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ou-03",
+   "section": "ou",
+   "section_name": "Outro – Spoken, Funny",
+   "kind": "calm",
+   "text": "And never serve raw chicken at your barbecue!",
+   "words": [
+    "And",
+    "never",
+    "serve",
+    "raw",
+    "chicken",
+    "at",
+    "your",
+    "barbecue!"
+   ],
+   "coverage": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "runs_used": [
+    1,
+    2,
+    3
+   ],
+   "heard": [
+    "And never serve raw chicken at your barbecue",
+    "and never serve raw chicken at your barbecue",
+    "And never serve raw chicken at your barbecue."
+   ],
+   "spread": 0.12,
+   "unsupported": null,
+   "wt": [
+    161.76,
+    162.082,
+    162.324,
+    162.797,
+    163.211,
+    163.695,
+    163.938,
+    164.101
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ou-04",
+   "section": "ou",
+   "section_name": "Outro – Spoken, Funny",
+   "kind": "calm",
+   "text": "Joojeh Kebab!",
+   "words": [
+    "Joojeh",
+    "Kebab!"
+   ],
+   "coverage": [
+    0.0,
+    0.0,
+    0.45
+   ],
+   "runs_used": [
+    3
+   ],
+   "heard": [
+    "kebab!"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    null,
+    166.42
+   ],
+   "source": "asr"
+  },
+  {
+   "id": "ou-05",
+   "section": "ou",
+   "section_name": "Outro – Spoken, Funny",
+   "kind": "calm",
+   "text": "That’s Persian magic!",
+   "words": [
+    "That’s",
+    "Persian",
+    "magic!"
+   ],
+   "coverage": [
+    0.0,
+    0.0,
+    0.76
+   ],
+   "runs_used": [
+    3
+   ],
+   "heard": [
+    "Less Persian magic!"
+   ],
+   "spread": 0.0,
+   "unsupported": null,
+   "wt": [
+    168.76,
+    168.833,
+    169.308
+   ],
+   "source": "asr"
+  }
+ ]
+}
